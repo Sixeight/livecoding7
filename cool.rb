@@ -1,4 +1,5 @@
-@body = `pandoc README.md`
+command = `which pandoc`.empty? ? 'rdiscount' : 'pandoc'
+@body = `#{command} README.md`
 
 if __FILE__ == $0
   # assume current branch is master
@@ -12,6 +13,6 @@ if __FILE__ == $0
   system "ruby a.rb > feed.rss"
   system "git add index.html feed.rss"
   system "git commit -m 'Automatically updated index.html and feed.rss'"
-  system "git push"
+  system "git push origin gh-pages"
   system "git checkout master"
 end
