@@ -5,6 +5,7 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 </div>
 
 **LiveCoding#7ではLiveCoderを絶賛募集中です**
+
 **詳しくは以下のLiveCoder募集をご覧ください**
 
 ## Contents
@@ -45,7 +46,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でHackathonなどを行なうかもしれません。
 
 ## LiveCoder募集中
-応募方法
+** 応募方法 **
 
 Sixeight(西村)まで連絡をお願いします。
 * tomohiro68 at gmail.com
@@ -77,6 +78,7 @@ Sixeight(西村)まで連絡をお願いします。
 
 ## SUMMARY
 * November 02, 2009 (Mon)
+
 <!--
 * July 11, 2009 (Sat) Opens at 5:30pm, Starts at 6:30pm and Ends at 0:30am
 * [Kyoto Nishijin Machiya Studio](http://nishi-jin.net/) (in Japanese)
