@@ -49,7 +49,7 @@ Sixeight(西村)まで連絡をお願いします。
 * [@Sixeight](http://twitter.com/Sixeight)
 
 
-また連絡いただいた際にgithubのアカウントをお持ちの方には本サイトをコミット権をお渡ししますので、以下の方法により概要などを直接編集いただけます。
+また連絡いただいた際にgithubのアカウントをお持ちの方には本サイトのコミット権をお渡ししますので、以下の方法により概要などを直接編集いただけます。
 
 1. [本レポジトリ](http://github.com/Sixeight/livecoding7/tree/master)を`git clone`して、README.mdに直接自分の名前を書いて、
    pushしてください。
