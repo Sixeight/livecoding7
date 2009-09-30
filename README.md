@@ -6,14 +6,14 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 
 **LiveCoding#7ではLiveCoderを絶賛募集中です**
 
-**詳しくは以下のLiveCoder募集をご覧ください**
+**詳しくは以下の LiveCoder募集 をご覧ください**
 
 ## Contents
 
 随時更新していきます
 
 ## 概要(予定)
-* **2009-11-02 (Mon)**
+* **2009-11-02 (Mon) 夜** (翌日は祝日です)
 <!-- * [京都西陣町家スタジオ](http://nishi-jin.net/)
 * 参加費3000円 (飲食込み) -->
 
@@ -42,15 +42,13 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * LiveCoderは過去に作ったものと全く同じものをLiveCodingで作ることが禁止されています。
   もはやそれはLiveCodingではなく、たんなる動画の再生と見なされます。
 
-## xxx Hackathon
-* LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でHackathonなどを行なうかもしれません。
-
 ## LiveCoder募集中
 ** 応募方法 **
 
 Sixeight(西村)まで連絡をお願いします。
+
 * tomohiro68 at gmail.com
-* @Sixeight
+* [@Sixeight](http://twitter.com/Sixeight)
 
 
 また連絡いただいた際にgithubのアカウントをお持ちの方には本サイトをコミット権をお渡ししますので、以下の方法により概要などを直接編集いただけます。
@@ -65,8 +63,12 @@ Sixeight(西村)まで連絡をお願いします。
 
 なお、LiveCoderは参加費が無料になります。
 
+
+## xxxHackathon
+* LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でHackathonなどを行なうかもしれません。
+
 ### 補足
-* 開催日の翌日は祝日です。また会場は翌朝まで使用可能ですが、寝具が無いため暖かい格好などを持参いただけると凍死のリスクを最小限に抑えられます。
+* 場は翌朝まで使用可能ですが、寝具が無いため暖かい格好などを持参いただけると凍死のリスクを最小限に抑えられます。
 
 ## LiveCoding#6(前回開催)の様子
 
@@ -77,7 +79,7 @@ Sixeight(西村)まで連絡をお願いします。
 # LiveCoding#7
 
 ## SUMMARY
-* November 02, 2009 (Mon)
+* November 02, 2009 (Mon) Night
 
 <!--
 * July 11, 2009 (Sat) Opens at 5:30pm, Starts at 6:30pm and Ends at 0:30am
