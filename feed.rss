@@ -5,13 +5,723 @@
   xmlns:dc="http://purl.org/dc/elements/1.1/"
   xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
   <channel>
-    <title>Recent Commits to livecoding6:master with Diff</title>
-    <link>http://ujihisa.github.com/livecoding6/</link>
-    <description>Recent Commits to livecoding6:master with Diff</description>
+    <title>Recent Commits to livecoding7:master with Diff</title>
+    <link>http://sixeight.github.com/livecoding7/</link>
+    <description>Recent Commits to livecoding7:master with Diff</description>
+    
+    <item>
+      <title>b305ee7a76d0b5278cb4b83538231a781dc83df3</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    now publish
+
+diff --git a/README.md b/README.md
+index 753ea8b..f35b1d3 100644
+--- a/README.md
++++ b/README.md
+@@ -6,14 +6,14 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ 
+ **LiveCoding#7ではLiveCoderを絶賛募集中です**
+ 
+-**詳しくは以下のLiveCoder募集をご覧ください**
++**詳しくは以下の LiveCoder募集 をご覧ください**
+ 
+ ## Contents
+ 
+ 随時更新していきます
+ 
+ ## 概要(予定)
+-* **2009-11-02 (Mon)**
++* **2009-11-02 (Mon) 夜** (翌日は祝日です)
+ &lt;!-- * [京都西陣町家スタジオ](http://nishi-jin.net/)
+ * 参加費3000円 (飲食込み) --&gt;
+ 
+@@ -42,15 +42,13 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * LiveCoderは過去に作ったものと全く同じものをLiveCodingで作ることが禁止されています。
+   もはやそれはLiveCodingではなく、たんなる動画の再生と見なされます。
+ 
+-## xxx Hackathon
+-* LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でHackathonなどを行なうかもしれません。
+-
+ ## LiveCoder募集中
+ ** 応募方法 **
+ 
+ Sixeight(西村)まで連絡をお願いします。
++
+ * tomohiro68 at gmail.com
+-* @Sixeight
++* [@Sixeight](http://twitter.com/Sixeight)
+ 
+ 
+ また連絡いただいた際にgithubのアカウントをお持ちの方には本サイトをコミット権をお渡ししますので、以下の方法により概要などを直接編集いただけます。
+@@ -65,8 +63,12 @@ Sixeight(西村)まで連絡をお願いします。
+ 
+ なお、LiveCoderは参加費が無料になります。
+ 
++
++## xxxHackathon
++* LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でHackathonなどを行なうかもしれません。
++
+ ### 補足
+-* 開催日の翌日は祝日です。また会場は翌朝まで使用可能ですが、寝具が無いため暖かい格好などを持参いただけると凍死のリスクを最小限に抑えられます。
++* 場は翌朝まで使用可能ですが、寝具が無いため暖かい格好などを持参いただけると凍死のリスクを最小限に抑えられます。
+ 
+ ## LiveCoding#6(前回開催)の様子
+ 
+@@ -77,7 +79,7 @@ Sixeight(西村)まで連絡をお願いします。
+ # LiveCoding#7
+ 
+ ## SUMMARY
+-* November 02, 2009 (Mon)
++* November 02, 2009 (Mon) Night
+ 
+ &lt;!--
+ * July 11, 2009 (Sat) Opens at 5:30pm, Starts at 6:30pm and Ends at 0:30am
+
+</pre>]]></description>
+      <pubDate>Thu Oct 01 00:44:43 +0900 2009</pubDate>
+      <dc:date>Thu Oct 01 00:44:43 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>dbd80ee049a09414010941c95be32133fc9c08fc</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    minor fix
+
+diff --git a/README.md b/README.md
+index b0e5143..753ea8b 100644
+--- a/README.md
++++ b/README.md
+@@ -5,6 +5,7 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ &lt;/div&gt;
+ 
+ **LiveCoding#7ではLiveCoderを絶賛募集中です**
++
+ **詳しくは以下のLiveCoder募集をご覧ください**
+ 
+ ## Contents
+@@ -45,7 +46,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でHackathonなどを行なうかもしれません。
+ 
+ ## LiveCoder募集中
+-応募方法
++** 応募方法 **
+ 
+ Sixeight(西村)まで連絡をお願いします。
+ * tomohiro68 at gmail.com
+@@ -77,6 +78,7 @@ Sixeight(西村)まで連絡をお願いします。
+ 
+ ## SUMMARY
+ * November 02, 2009 (Mon)
++
+ &lt;!--
+ * July 11, 2009 (Sat) Opens at 5:30pm, Starts at 6:30pm and Ends at 0:30am
+ * [Kyoto Nishijin Machiya Studio](http://nishi-jin.net/) (in Japanese)
+
+</pre>]]></description>
+      <pubDate>Thu Oct 01 00:30:57 +0900 2009</pubDate>
+      <dc:date>Thu Oct 01 00:30:57 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>ee4928c4c3663fd9ff49d00c24b2c0858b8f19fc</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    fix README.md for livecoding#7
+
+diff --git a/README.md b/README.md
+index 35cc103..b0e5143 100644
+--- a/README.md
++++ b/README.md
+@@ -1,60 +1,26 @@
+-# LiveCoding#6
++# LiveCoding#7
+ 
+ &lt;div id=&quot;path&quot;&gt;
+-Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for ujihisa/livecoding6 at master&quot; /&gt;&lt;/a&gt;
++Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for Sixeight/livecoding7 at master&quot; /&gt;&lt;/a&gt;
+ &lt;/div&gt;
+ 
+-## Contents
+-
+-8人のLiveCoderが各20分で持ち前の技術を余すところなく披露します。
+-
+-* *Twitterをちょっと便利に* with [hitode909](http://d.hatena.ne.jp/hitode909/)
+-    * &lt;http://d.hatena.ne.jp/hitode909/20090711/1247336635&gt;
+-    * Twitterをちょっと便利にするGreasemonkeyを作成します。
+-    * Powered by Emacs, JavaScript, Mac OS X and MacBook
+-
+-* *JavaScript on Scala on GAE* with [cho45]( http://www.lowreal.net/ )
+-    * Scala で書いた GAE アプリを deploy しつつ、その上で JS を書きます
+-    * Powered by Scala, Java (is abbr of JavaScript), Vim, Rake and MacBook
+-
+-* *Ruby/SDLでなんか* with [大林(ohai)](http://www.kmc.gr.jp/~ohai/)
+-    * ゲームっぽい何かかな
+-    * Powered by Ruby, Emacs, Ion, Debian/GNU Linux, and ThinkPad
+-
+-* *Vimperator で何か作る* with [hotchpotch](http://tako3.com/http://github.com/hotchpotch)
+-    * &lt;del&gt;最近全く触ってない AS3 が恋しくなってきた&lt;/dev&gt; Vimperator で、役に立たない何かを作ります
+-    * Powered by Firefox 3.5, Vim, Rascut, Windows7(7100) + Debian/GNU Linux and ThinkPad X61Tablet
+-
+-* *Androidで何か作る* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
+-    * &lt;http://android.g.hatena.ne.jp/n4_t/20090711&gt;
+-    * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？→Androidでエアホッケーを作ります
+-    * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
+-
+-* *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
+-    * Rubyistのための究極のWebアプリケーション開発環境、Sinatra/Google App Engine for Java/JRuby
+-    * Powered by Vim, Ruby, Mac OS X and MacBook Air
+-
+-* *大学の演習，回答求む?* with [木本](http://d.hatena.ne.jp/ryutorion/)
+-    * レポート提出まであと数時間，まったく手を付けていないのに間に合うのか．単位と留年を掛けたドキドキプログラミング
+-    * Powered by Vim, C, Windows XP Pro and Let's note
++**LiveCoding#7ではLiveCoderを絶賛募集中です**
++**詳しくは以下のLiveCoder募集をご覧ください**
+ 
+-* *PHPでWikiっぽいものを作る* with [imos](http://imoz.jp/)
+-    * てきとーな記法のwikiっぽいものを作ります
+-    * Powered by mi, php, Mac OS X and MacBook Pro
++## Contents
+ 
+-加えて、飛び入り参加も!
++随時更新していきます
+ 
+-## 概要
+-* **2009-07-11 (Sat)** 5:30pm開場 6:30pm開演 0:30am終了
+-* [京都西陣町家スタジオ](http://nishi-jin.net/)
+-* 参加費3000円 (飲食込み)
++## 概要(予定)
++* **2009-11-02 (Mon)**
++&lt;!-- * [京都西陣町家スタジオ](http://nishi-jin.net/)
++* 参加費3000円 (飲食込み) --&gt;
+ 
+ LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
+ 
+ ## 一般参加方法
+-以下のフォームから申し込みください。
+ 
+-&lt;http://cotocoto.jp/event/30597&gt;
++しばしお待ちください
+ 
+ ## LiveCodingについて詳しく
+ 一人の&quot;LiveCoder&quot;が、20分の制限時間で何かソフトウェアを作り、デモをします。
+@@ -75,59 +41,60 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * LiveCoderは過去に作ったものと全く同じものをLiveCodingで作ることが禁止されています。
+   もはやそれはLiveCodingではなく、たんなる動画の再生と見なされます。
+ 
+-## Google Android Hackathon / Vim Hackathon
+-* LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でGoogle Android携帯のアプリケーション開発Hackathonなどを行ないます。
++## xxx Hackathon
++* LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でHackathonなどを行なうかもしれません。
+ 
+ ## LiveCoder募集中
+ 応募方法
+ 
+-1. [ここ](http://autocommitbit.appspot.com/)にあなたのgithubアカウントを入力して、
+-   本レポジトリのコミット権を取得します (自動的に取得できます) `-&gt;` いまはできないのでujihisaに連絡ください
+-2. [本レポジトリ](http://github.com/ujihisa/livecoding6/tree/master)を`git clone`して、READMEに直接自分の名前を書いて、
++Sixeight(西村)まで連絡をお願いします。
++* tomohiro68 at gmail.com
++* @Sixeight
++
++
++また連絡いただいた際にgithubのアカウントをお持ちの方には本サイトをコミット権をお渡ししますので、以下の方法により概要などを直接編集いただけます。
++
++1. [本レポジトリ](http://github.com/Sixeight/livecoding7/tree/master)を`git clone`して、README.mdに直接自分の名前を書いて、
+    pushしてください。
+-3. 以下のコマンドで[このページ](http://ujihisa.github.com/livecoding6/)にも反映されます。
++2. 以下のコマンドで[このページ](http://sixeight.github.com/livecoding7/)にも反映されます。
+ 
+         $ ruby cool.rb
+ 
+-   ただし`pandoc` (Haskell実装のMarkdown変換器)がないと動作しません。
++   ただし`pandoc` (Haskell実装のMarkdown変換器)、もしくは`RDiscount` (Ruby実装のMarkdown変換器)がないと動作しません。
+ 
+ なお、LiveCoderは参加費が無料になります。
+ 
+ ### 補足
+-* 同じ日の昼間に[OSC2009関西](http://www.ospn.jp/osc2009-kansai/)が開催されています。5pmに終了してそのままその足でLiveCoding#6に来ることが可能です。
+-
+-## 感想記事
+-* &lt;http://ujihisa.blogspot.com/2009/07/livecoding6-was-successfully-hosted-by.html&gt; by ujihisa
+-* &lt;http://d.hatena.ne.jp/murase_syuka/20090712/1247402646&gt; by murase
+-* &lt;http://d.hatena.ne.jp/hitode909/20090711/1247336635&gt; by hitode909
+-* &lt;http://imoz.jp/2009/07/livecoding/&gt; by imo
+-* &lt;http://d.hatena.ne.jp/raito3/20090712/1247406886&gt; by raito
+-* &lt;http://android.g.hatena.ne.jp/n4_t/20090711&gt; by naoya_t
+-* &lt;http://d.hatena.ne.jp/mollifier/20090713/p1&gt; by mollifier
+-* &lt;http://d.hatena.ne.jp/Sixeight/20090714&gt; by Sixeight
+-* &lt;http://www.kmc.gr.jp/~ohai/diary/?date=20090716&gt; by ohai
+-
+-## 写真
+-* &lt;http://www.flickr.com/photos/hitode303/sets/72157621209268033/&gt; by hitode909
+-* &lt;http://www.flickr.com/photos/tomohiro68/sets/72157621387415340/&gt; by Sixeight
++* 開催日の翌日は祝日です。また会場は翌朝まで使用可能ですが、寝具が無いため暖かい格好などを持参いただけると凍死のリスクを最小限に抑えられます。
++
++## LiveCoding#6(前回開催)の様子
++
++&lt;http://ujihisa.github.com/livecoding6&gt;
+ 
+ ----
+ 
+-# LiveCoding#6
++# LiveCoding#7
+ 
+ ## SUMMARY
++* November 02, 2009 (Mon)
++&lt;!--
+ * July 11, 2009 (Sat) Opens at 5:30pm, Starts at 6:30pm and Ends at 0:30am
+ * [Kyoto Nishijin Machiya Studio](http://nishi-jin.net/) (in Japanese)
+ * Fee: 3,000 yen
++--&gt;
+ 
+ LiveCoding is a new boom that programmers show their programming techniques live with communication and develop a new software.
+ It is amusing that we watch a super technique of a great hacker rowdy.
+ 
+ ## REGISTRATION
+ 
++Please wait a moment.
++
++&lt;!--
+ Input the following form:
+ 
+ &lt;http://cotocoto.jp/event/30597&gt;
++--&gt;
+ 
+ ## DETAILS
+ A &quot;LiveCoder&quot; creates a new software within 20 minutes, and demonstrates it.
+@@ -141,36 +108,5 @@ And &quot;Play-by-Play commentaries&quot; are always explaining what he/she is doing.
+ &gt; LiveCoder: (///
+ 
+ ## CONTENTS
+-* *Pretty More Useful Twitter* with [hitode909](http://d.hatena.ne.jp/hitode909/)
+-    * &lt;http://d.hatena.ne.jp/hitode909/20090711/1247336635&gt;
+-    * A greasemonkey which makes twitter more useful
+-    * Powered by Emacs, JavaScript, Mac OS X and MacBook
+-
+-* *JavaScript on Scala on GAE* with [cho45]( http://www.lowreal.net/ )
+-    * A GAE app in Scala with JS(rhino)
+-    * Powered by Scala, Java (is abbr of JavaScript), Vim, Rake and MacBook
+-
+-* *Something with Ruby/SDL* with [大林(ohai)](http://www.kmc.gr.jp/~ohai/)
+-    * Something like a shooting game
+-    * Powered by Ruby, Emacs, Ion, Debian/GNU Linux, and ThinkPad
+-
+-* *Something with Vimperator* with [hotchpotch](http://tako3.com/http://github.com/hotchpotch)
+-    * An unuseful vimperator plugin
+-    * Powered by Firefox 3.5, Vim, Rascut, Windows7(7100) + Debian/GNU Linux and ThinkPad X61Tablet
+-
+-* *Something with Android* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
+-    * &lt;http://android.g.hatena.ne.jp/n4_t/20090711&gt;
+-    * Produce something as an Android app (and then will continue developing it at the Android Hackathon)
+-    * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
+-
+-* *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
+-    * The ultimate web application platform Sinatra/Google App Engine for Java/JRuby
+-    * Powered by Vim, Ruby, Mac OS X and MacBook Air
+-
+-* *Wanted: The Answer of my Assignment* with [Kimoto](http://d.hatena.ne.jp/ryutorion/)
+-    * There are few hours to submit my report. Does it make on time while I've never got going. Get a unit or repeat the course.
+-    * Powered by Vim, C, Windows XP Pro and Let's note
+-
+-* *Wiki on PHP* with [imos](http://imoz.jp/)
+-    * An irresponsible notation wiki
+-    * Powered by mi, php, Mac OS X and MacBook Pro
++
++Comming soon
+
+</pre>]]></description>
+      <pubDate>Thu Oct 01 00:22:07 +0900 2009</pubDate>
+      <dc:date>Thu Oct 01 00:22:07 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>72ff9045e85e7be9ceb2745c51b25897edc727d2</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    a
+
+diff --git a/README.md b/README.md
+index 8cf63e9..35cc103 100644
+--- a/README.md
++++ b/README.md
+@@ -105,6 +105,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * &lt;http://android.g.hatena.ne.jp/n4_t/20090711&gt; by naoya_t
+ * &lt;http://d.hatena.ne.jp/mollifier/20090713/p1&gt; by mollifier
+ * &lt;http://d.hatena.ne.jp/Sixeight/20090714&gt; by Sixeight
++* &lt;http://www.kmc.gr.jp/~ohai/diary/?date=20090716&gt; by ohai
+ 
+ ## 写真
+ * &lt;http://www.flickr.com/photos/hitode303/sets/72157621209268033/&gt; by hitode909
+
+</pre>]]></description>
+      <pubDate>Mon Jul 20 23:06:17 +0900 2009</pubDate>
+      <dc:date>Mon Jul 20 23:06:17 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>4e012f492820862252a5aa5564c606466e0b6539</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    Added sixeight
+
+diff --git a/README.md b/README.md
+index e5feb0e..8cf63e9 100644
+--- a/README.md
++++ b/README.md
+@@ -104,6 +104,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * &lt;http://d.hatena.ne.jp/raito3/20090712/1247406886&gt; by raito
+ * &lt;http://android.g.hatena.ne.jp/n4_t/20090711&gt; by naoya_t
+ * &lt;http://d.hatena.ne.jp/mollifier/20090713/p1&gt; by mollifier
++* &lt;http://d.hatena.ne.jp/Sixeight/20090714&gt; by Sixeight
+ 
+ ## 写真
+ * &lt;http://www.flickr.com/photos/hitode303/sets/72157621209268033/&gt; by hitode909
+
+</pre>]]></description>
+      <pubDate>Wed Jul 15 00:11:55 +0900 2009</pubDate>
+      <dc:date>Wed Jul 15 00:11:55 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>7011c5f670fb87fc6db8fb78601a63e8eff36b65</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    Added photo link
+
+diff --git a/README.md b/README.md
+index ab6ca55..e5feb0e 100644
+--- a/README.md
++++ b/README.md
+@@ -105,6 +105,10 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * &lt;http://android.g.hatena.ne.jp/n4_t/20090711&gt; by naoya_t
+ * &lt;http://d.hatena.ne.jp/mollifier/20090713/p1&gt; by mollifier
+ 
++## 写真
++* &lt;http://www.flickr.com/photos/hitode303/sets/72157621209268033/&gt; by hitode909
++* &lt;http://www.flickr.com/photos/tomohiro68/sets/72157621387415340/&gt; by Sixeight
++
+ ----
+ 
+ # LiveCoding#6
+
+</pre>]]></description>
+      <pubDate>Tue Jul 14 15:32:01 +0900 2009</pubDate>
+      <dc:date>Tue Jul 14 15:32:01 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>b8feccde3073eb50862c7ac896c919b021a5d6b5</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add trackback
+
+diff --git a/README.md b/README.md
+index 63eb667..ab6ca55 100644
+--- a/README.md
++++ b/README.md
+@@ -103,6 +103,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * &lt;http://imoz.jp/2009/07/livecoding/&gt; by imo
+ * &lt;http://d.hatena.ne.jp/raito3/20090712/1247406886&gt; by raito
+ * &lt;http://android.g.hatena.ne.jp/n4_t/20090711&gt; by naoya_t
++* &lt;http://d.hatena.ne.jp/mollifier/20090713/p1&gt; by mollifier
+ 
+ ----
+ 
+
+</pre>]]></description>
+      <pubDate>Mon Jul 13 22:25:54 +0900 2009</pubDate>
+      <dc:date>Mon Jul 13 22:25:54 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>68eb744b1db2785cda2c78f5942bd36bbb7f3df6</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    adding naoya_t's blog entry
+
+diff --git a/README.md b/README.md
+index 5291800..63eb667 100644
+--- a/README.md
++++ b/README.md
+@@ -26,7 +26,8 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+     * Powered by Firefox 3.5, Vim, Rascut, Windows7(7100) + Debian/GNU Linux and ThinkPad X61Tablet
+ 
+ * *Androidで何か作る* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
+-    * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？
++    * &lt;http://android.g.hatena.ne.jp/n4_t/20090711&gt;
++    * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？→Androidでエアホッケーを作ります
+     * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
+ 
+ * *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
+@@ -101,7 +102,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * &lt;http://d.hatena.ne.jp/hitode909/20090711/1247336635&gt; by hitode909
+ * &lt;http://imoz.jp/2009/07/livecoding/&gt; by imo
+ * &lt;http://d.hatena.ne.jp/raito3/20090712/1247406886&gt; by raito
+-
++* &lt;http://android.g.hatena.ne.jp/n4_t/20090711&gt; by naoya_t
+ 
+ ----
+ 
+@@ -151,6 +152,7 @@ And &quot;Play-by-Play commentaries&quot; are always explaining what he/she is doing.
+     * Powered by Firefox 3.5, Vim, Rascut, Windows7(7100) + Debian/GNU Linux and ThinkPad X61Tablet
+ 
+ * *Something with Android* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
++    * &lt;http://android.g.hatena.ne.jp/n4_t/20090711&gt;
+     * Produce something as an Android app (and then will continue developing it at the Android Hackathon)
+     * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
+ 
+
+</pre>]]></description>
+      <pubDate>Mon Jul 13 21:32:14 +0900 2009</pubDate>
+      <dc:date>Mon Jul 13 21:32:14 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>e4da41dfc7c1e65f626058076193732f5d8d7b37</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    Added more trackback
+
+diff --git a/README.md b/README.md
+index 1bac7e8..5291800 100644
+--- a/README.md
++++ b/README.md
+@@ -96,10 +96,11 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * 同じ日の昼間に[OSC2009関西](http://www.ospn.jp/osc2009-kansai/)が開催されています。5pmに終了してそのままその足でLiveCoding#6に来ることが可能です。
+ 
+ ## 感想記事
+-* &lt;http://d.hatena.ne.jp/murase_syuka/20090712/1247402646&gt;
+-* &lt;http://d.hatena.ne.jp/hitode909/20090711/1247336635&gt;
+-* &lt;http://imoz.jp/2009/07/livecoding/&gt;
+-* &lt;http://d.hatena.ne.jp/raito3/20090712/1247406886&gt;
++* &lt;http://ujihisa.blogspot.com/2009/07/livecoding6-was-successfully-hosted-by.html&gt; by ujihisa
++* &lt;http://d.hatena.ne.jp/murase_syuka/20090712/1247402646&gt; by murase
++* &lt;http://d.hatena.ne.jp/hitode909/20090711/1247336635&gt; by hitode909
++* &lt;http://imoz.jp/2009/07/livecoding/&gt; by imo
++* &lt;http://d.hatena.ne.jp/raito3/20090712/1247406886&gt; by raito
+ 
+ 
+ ----
+
+</pre>]]></description>
+      <pubDate>Mon Jul 13 21:16:17 +0900 2009</pubDate>
+      <dc:date>Mon Jul 13 21:16:17 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>e5fda93f8556997e7e5b8080f75fba3f237cdc29</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    Fixed link
+
+diff --git a/README.md b/README.md
+index 2abf7f0..1bac7e8 100644
+--- a/README.md
++++ b/README.md
+@@ -96,10 +96,10 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * 同じ日の昼間に[OSC2009関西](http://www.ospn.jp/osc2009-kansai/)が開催されています。5pmに終了してそのままその足でLiveCoding#6に来ることが可能です。
+ 
+ ## 感想記事
+-* http://d.hatena.ne.jp/murase_syuka/20090712/1247402646
+-* http://d.hatena.ne.jp/hitode909/20090711/1247336635
+-* http://imoz.jp/2009/07/livecoding/
+-* http://d.hatena.ne.jp/raito3/20090712/1247406886
++* &lt;http://d.hatena.ne.jp/murase_syuka/20090712/1247402646&gt;
++* &lt;http://d.hatena.ne.jp/hitode909/20090711/1247336635&gt;
++* &lt;http://imoz.jp/2009/07/livecoding/&gt;
++* &lt;http://d.hatena.ne.jp/raito3/20090712/1247406886&gt;
+ 
+ 
+ ----
+
+</pre>]]></description>
+      <pubDate>Mon Jul 13 11:00:51 +0900 2009</pubDate>
+      <dc:date>Mon Jul 13 11:00:51 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>5319ee50fb60ec4449fa219f3569b4ee02d1f1e4</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    Added trackbacks
+
+diff --git a/README.md b/README.md
+index 4453192..2abf7f0 100644
+--- a/README.md
++++ b/README.md
+@@ -95,6 +95,13 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ ### 補足
+ * 同じ日の昼間に[OSC2009関西](http://www.ospn.jp/osc2009-kansai/)が開催されています。5pmに終了してそのままその足でLiveCoding#6に来ることが可能です。
+ 
++## 感想記事
++* http://d.hatena.ne.jp/murase_syuka/20090712/1247402646
++* http://d.hatena.ne.jp/hitode909/20090711/1247336635
++* http://imoz.jp/2009/07/livecoding/
++* http://d.hatena.ne.jp/raito3/20090712/1247406886
++
++
+ ----
+ 
+ # LiveCoding#6
+
+</pre>]]></description>
+      <pubDate>Mon Jul 13 10:59:24 +0900 2009</pubDate>
+      <dc:date>Mon Jul 13 10:59:24 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>4f090fcd558bb2352bbba568b4f48dd56ae756a2</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    Added English Contents
+
+diff --git a/README.md b/README.md
+index fe0d386..4453192 100644
+--- a/README.md
++++ b/README.md
+@@ -125,11 +125,35 @@ And &quot;Play-by-Play commentaries&quot; are always explaining what he/she is doing.
+ &gt; LiveCoder: (///
+ 
+ ## CONTENTS
++* *Pretty More Useful Twitter* with [hitode909](http://d.hatena.ne.jp/hitode909/)
++    * &lt;http://d.hatena.ne.jp/hitode909/20090711/1247336635&gt;
++    * A greasemonkey which makes twitter more useful
++    * Powered by Emacs, JavaScript, Mac OS X and MacBook
++
++* *JavaScript on Scala on GAE* with [cho45]( http://www.lowreal.net/ )
++    * A GAE app in Scala with JS(rhino)
++    * Powered by Scala, Java (is abbr of JavaScript), Vim, Rake and MacBook
++
++* *Something with Ruby/SDL* with [大林(ohai)](http://www.kmc.gr.jp/~ohai/)
++    * Something like a shooting game
++    * Powered by Ruby, Emacs, Ion, Debian/GNU Linux, and ThinkPad
++
++* *Something with Vimperator* with [hotchpotch](http://tako3.com/http://github.com/hotchpotch)
++    * An unuseful vimperator plugin
++    * Powered by Firefox 3.5, Vim, Rascut, Windows7(7100) + Debian/GNU Linux and ThinkPad X61Tablet
++
++* *Something with Android* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
++    * Produce something as an Android app (and then will continue developing it at the Android Hackathon)
++    * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
++
+ * *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
+     * The ultimate web application platform Sinatra/Google App Engine for Java/JRuby
+     * Powered by Vim, Ruby, Mac OS X and MacBook Air
++
+ * *Wanted: The Answer of my Assignment* with [Kimoto](http://d.hatena.ne.jp/ryutorion/)
+     * There are few hours to submit my report. Does it make on time while I've never got going. Get a unit or repeat the course.
+     * Powered by Vim, C, Windows XP Pro and Let's note
+-* *Title* with [name](uri)
+-    * Powered by Something
++
++* *Wiki on PHP* with [imos](http://imoz.jp/)
++    * An irresponsible notation wiki
++    * Powered by mi, php, Mac OS X and MacBook Pro
+
+</pre>]]></description>
+      <pubDate>Sun Jul 12 21:28:22 +0900 2009</pubDate>
+      <dc:date>Sun Jul 12 21:28:22 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>8bb0ee2b822c0390eefc8cebc7d83467c24a5c38</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    LiveCoding6 finished!
+
+diff --git a/README.md b/README.md
+index 4413498..fe0d386 100644
+--- a/README.md
++++ b/README.md
+@@ -7,9 +7,9 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ ## Contents
+ 
+ 8人のLiveCoderが各20分で持ち前の技術を余すところなく披露します。
+-実況解説は観客からその場で募ります。
+ 
+ * *Twitterをちょっと便利に* with [hitode909](http://d.hatena.ne.jp/hitode909/)
++    * &lt;http://d.hatena.ne.jp/hitode909/20090711/1247336635&gt;
+     * Twitterをちょっと便利にするGreasemonkeyを作成します。
+     * Powered by Emacs, JavaScript, Mac OS X and MacBook
+ 
+@@ -44,9 +44,9 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ 加えて、飛び入り参加も!
+ 
+ ## 概要
+-* **2009-07-11 (Sat)** 5:30pm開場 6:30pm開演
++* **2009-07-11 (Sat)** 5:30pm開場 6:30pm開演 0:30am終了
+ * [京都西陣町家スタジオ](http://nishi-jin.net/)
+-* 参加費3000円ぐらい (飲食込み)
++* 参加費3000円 (飲食込み)
+ 
+ LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
+ 
+@@ -74,9 +74,8 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * LiveCoderは過去に作ったものと全く同じものをLiveCodingで作ることが禁止されています。
+   もはやそれはLiveCodingではなく、たんなる動画の再生と見なされます。
+ 
+-## Google Android Hackathon
+-* LiveCodingのあとで、そのまま次の日の朝まで同会場でGoogle Android携帯のアプリケーション開発Hackathonを行ないます。
+-
++## Google Android Hackathon / Vim Hackathon
++* LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でGoogle Android携帯のアプリケーション開発Hackathonなどを行ないます。
+ 
+ ## LiveCoder募集中
+ 応募方法
+@@ -91,7 +90,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+    ただし`pandoc` (Haskell実装のMarkdown変換器)がないと動作しません。
+ 
+-なお、LiveCoderは参加費が無料あるいは格安になります。
++なお、LiveCoderは参加費が無料になります。
+ 
+ ### 補足
+ * 同じ日の昼間に[OSC2009関西](http://www.ospn.jp/osc2009-kansai/)が開催されています。5pmに終了してそのままその足でLiveCoding#6に来ることが可能です。
+@@ -101,9 +100,9 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ # LiveCoding#6
+ 
+ ## SUMMARY
+-* July 11, 2009 (Sat) Opens at 5:30pm and Starts at 6:30pm
++* July 11, 2009 (Sat) Opens at 5:30pm, Starts at 6:30pm and Ends at 0:30am
+ * [Kyoto Nishijin Machiya Studio](http://nishi-jin.net/) (in Japanese)
+-* Fee: About 3,000 yen
++* Fee: 3,000 yen
+ 
+ LiveCoding is a new boom that programmers show their programming techniques live with communication and develop a new software.
+ It is amusing that we watch a super technique of a great hacker rowdy.
+@@ -125,10 +124,6 @@ And &quot;Play-by-Play commentaries&quot; are always explaining what he/she is doing.
+ &gt;
+ &gt; LiveCoder: (///
+ 
+-&lt;!--
+-STUB
+---&gt;
+-
+ ## CONTENTS
+ * *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
+     * The ultimate web application platform Sinatra/Google App Engine for Java/JRuby
+@@ -138,10 +133,3 @@ STUB
+     * Powered by Vim, C, Windows XP Pro and Let's note
+ * *Title* with [name](uri)
+     * Powered by Something
+-
+-&lt;!--
+-STUB
+-## CALL FOR LIVECODERS
+-## Google Android Hackathon
+-### NOTES
+---&gt;
+
+</pre>]]></description>
+      <pubDate>Sun Jul 12 21:19:41 +0900 2009</pubDate>
+      <dc:date>Sun Jul 12 21:19:41 +0900 2009</dc:date>
+    </item>
     
     <item>
       <title>da44459a2c4764fa8588977904147173fbfcb41b</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     change hotchpotch
 
@@ -40,7 +750,7 @@ index 5e11bf1..4413498 100644
     
     <item>
       <title>6289a64b3c1fba1d86008d9fa9dcf1858703e707</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     Order
 
@@ -132,7 +842,7 @@ index 954ae3b..5e11bf1 100644
     
     <item>
       <title>86a96402c0ad210d1f067b9344e907f3a81614e4</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     Order
 
@@ -194,7 +904,7 @@ index d43fea8..954ae3b 100644
     
     <item>
       <title>6399af3da9e1bfdabcacb6f23d66ecaa6e9c650b</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     organized
 
@@ -281,7 +991,7 @@ index 6ca2acf..d43fea8 100644
     
     <item>
       <title>bf36d959e205f605b892a6dbbb922ac08a1271cf</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     Deleted sample
 
@@ -307,7 +1017,7 @@ index c3e839f..6ca2acf 100644
     
     <item>
       <title>fd48a6264d82d82039cfd92283f61662233c5cf5</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     Added imos
 
@@ -338,7 +1048,7 @@ index e8a06d5..c3e839f 100644
     
     <item>
       <title>0ce6e30f20b99880eb742bbb16e3f7ac66e221d9</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     trivial changes
 
@@ -372,7 +1082,7 @@ index 61161b8..e8a06d5 100644
     
     <item>
       <title>9d600799b6ad7920cfab4262f6f9ec2df47a4eaf</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     add
 
@@ -399,7 +1109,7 @@ index 5b62d29..61161b8 100644
     
     <item>
       <title>790f7769b3cdb92990e5b7c79196fc08e6888af2</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     add hotchpotch
 
@@ -426,7 +1136,7 @@ index b513743..5b62d29 100644
     
     <item>
       <title>154ce96cd8a213af62c3430eb5a22adb1132c6e4</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     Add ohai to LiveCoders
 
@@ -452,7 +1162,7 @@ index 0a19b7c..b513743 100644
     
     <item>
       <title>7b04a76a8c00b4f85b9c3c410d3c2590ab0a6e22</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     s/android/Android/
 
@@ -481,7 +1191,7 @@ index a1dc7ea..0a19b7c 100644
     
     <item>
       <title>03de6dc6e859ae9e7513c10aaf49d48df258b155</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     +me
 
@@ -507,7 +1217,7 @@ index 8ce4420..a1dc7ea 100644
     
     <item>
       <title>70525685b322ee3f7fad3e2ebc0a0ee475f11b58</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     Added hitode909's LiveCoding.
 
@@ -535,7 +1245,7 @@ index f4fd789..8ce4420 100644
     
     <item>
       <title>60a98e5bc82090027f502c03bbb377be958995bb</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     Fixed expressions a little
 
@@ -592,7 +1302,7 @@ index 989a2d3..f4fd789 100644
     
     <item>
       <title>4747ee17f21bca02aa91d332a91c5d5725e62c72</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     Use feed.rss
 
@@ -617,7 +1327,7 @@ index f60f10b..989a2d3 100644
     
     <item>
       <title>51b1ee75828bb2745e0ff44e6fa8da98e82dbd93</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     Added Kimoto's LiveCoding
 
@@ -669,7 +1379,7 @@ index 173851f..f60f10b 100644
     
     <item>
       <title>49e8dbb141cc69739bc3b2a9f90502344f3288bb</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     Added RSS
 
@@ -696,7 +1406,7 @@ index f4cb4ac..173851f 100644
     
     <item>
       <title>a0926d4c2d1e61250bb37bf592d9c6d49f80551a</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     Added registration part
 
@@ -789,7 +1499,7 @@ index 43345bf..f4cb4ac 100644
     
     <item>
       <title>8578e2dfb19678908646ea32c94c0499676984ab</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     Added English Translation
 
@@ -848,7 +1558,7 @@ index 9d11bb2..43345bf 100644
     
     <item>
       <title>a7fb6705c6f82c5778e9e2b4af790be3d5c1e58e</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     Fix layout
 
@@ -874,7 +1584,7 @@ index d877401..9d11bb2 100644
     
     <item>
       <title>46bc900c95cce285625bc2fc9e156364d6cdd94b</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     Added details of Livecoding
 
@@ -914,7 +1624,7 @@ index 7240425..d877401 100644
     
     <item>
       <title>abd463f8a111001e0ac628d44f5100cb8ae0b3a2</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     Fixed
 
@@ -957,7 +1667,7 @@ index c35cd84..7240425 100644
     
     <item>
       <title>d240b6e1080f71ab559ef3a9a6df9676eb820c50</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     Added note
 
@@ -982,7 +1692,7 @@ index 7e9c011..c35cd84 100644
     
     <item>
       <title>bb8f2db90ecefd049e4bb05c825fa0e0764b9791</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     Added my livecoding
 
@@ -1008,7 +1718,7 @@ index 94a74d2..7e9c011 100644
     
     <item>
       <title>f153cf58dfc96db7a5345deec206db9deff28563</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     Added note for pandoc
 
@@ -1036,7 +1746,7 @@ index 7fd0f91..94a74d2 100644
     
     <item>
       <title>13433ee18f44e754c1468c7ec1014d8829377b2b</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     Simple task
 
@@ -1062,7 +1772,7 @@ index cf75a37..7fd0f91 100644
     
     <item>
       <title>6f1c27b24d364afa7ef341e24aac6487796af01a</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     Fixed how to join
 
@@ -1098,7 +1808,7 @@ index aa4741d..cf75a37 100644
     
     <item>
       <title>5bc9de45d7b69d872264dd53fb8da7abaaaccd37</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     Fixed contents
 
@@ -1130,7 +1840,7 @@ index ddd312a..aa4741d 100644
     
     <item>
       <title>bc37bd60bb7225ae3d18692d2718b20c2fcbc43d</title>
-      <link>http://ujihisa.github.com/livecoding6/</link>
+      <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
     rename
 
