@@ -10,6 +10,31 @@
     <description>Recent Commits to livecoding7:master with Diff</description>
     
     <item>
+      <title>a8dd09a4552e29edbb60cc92e2b1a9570ecb0529</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    fix typo
+
+diff --git a/README.md b/README.md
+index de9487a..9af8c7b 100644
+--- a/README.md
++++ b/README.md
+@@ -49,7 +49,7 @@ Sixeight(西村)まで連絡をお願いします。
+ * [@Sixeight](http://twitter.com/Sixeight)
+ 
+ 
+-また連絡いただいた際にgithubのアカウントをお持ちの方には本サイトをコミット権をお渡ししますので、以下の方法により概要などを直接編集いただけます。
++また連絡いただいた際にgithubのアカウントをお持ちの方には本サイトのコミット権をお渡ししますので、以下の方法により概要などを直接編集いただけます。
+ 
+ 1. [本レポジトリ](http://github.com/Sixeight/livecoding7/tree/master)を`git clone`して、README.mdに直接自分の名前を書いて、
+    pushしてください。
+
+</pre>]]></description>
+      <pubDate>Thu Oct 01 00:56:43 +0900 2009</pubDate>
+      <dc:date>Thu Oct 01 00:56:43 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>e862345e903d39951c8323711522fd4e2b7a239c</title>
       <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
