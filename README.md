@@ -51,7 +51,7 @@ Sixeight(西村)まで連絡をお願いします。
 
 また連絡いただいた際にgithubのアカウントをお持ちの方には本サイトのコミット権をお渡ししますので、以下の方法により概要などを直接編集いただけます。
 
-1. [本レポジトリ](http://github.com/Sixeight/livecoding7/tree/master)を`git clone`して、README.mdに直接自分の名前を書いて、
+1. [本レポジトリ](http://github.com/Sixeight/livecoding7)を`git clone`して、README.mdに直接自分の名前を書いて、
    pushしてください。
 2. 以下のコマンドで[このページ](http://sixeight.github.com/livecoding7/)にも反映されます。
 
@@ -64,6 +64,8 @@ Sixeight(西村)まで連絡をお願いします。
 
 ## xxxHackathon
 * LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でHackathonなどを行なうかもしれません。
+    * 案1: Haskell Hackathon
+    * 案2: Vim Hackathon
 
 ### 補足
 * 場は翌朝まで使用可能ですが、寝具が無いため暖かい格好などを持参いただけると凍死のリスクを最小限に抑えられます。
