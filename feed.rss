@@ -10,6 +10,31 @@
     <description>Recent Commits to livecoding7:master with Diff</description>
     
     <item>
+      <title>03167684013d565dbf2a5027092a9cac4120f86a</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add mollifier's coding to contents
+
+diff --git a/README.md b/README.md
+index 6ed5230..6372973 100644
+--- a/README.md
++++ b/README.md
+@@ -12,6 +12,8 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ 
+ 随時更新していきます
+ 
++* [mollifierさん](http://d.hatena.ne.jp/mollifier/)
++
+ ## 概要(予定)
+ * **2009-11-02 (Mon) 夜** (翌日は祝日です)
+ * 関西（京都 or 大阪)
+
+</pre>]]></description>
+      <pubDate>Fri Oct 02 00:29:02 +0900 2009</pubDate>
+      <dc:date>Fri Oct 02 00:29:02 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>4ad6a050eadbe4eaae4f63894ec0039874b3849d</title>
       <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
