@@ -12,6 +12,8 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 
 随時更新していきます
 
+* [mollifierさん](http://d.hatena.ne.jp/mollifier/)
+
 ## 概要(予定)
 * **2009-11-02 (Mon) 夜** (翌日は祝日です)
 * 関西（京都 or 大阪)
