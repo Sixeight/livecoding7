@@ -10,6 +10,97 @@
     <description>Recent Commits to livecoding7:master with Diff</description>
     
     <item>
+      <title>4ad6a050eadbe4eaae4f63894ec0039874b3849d</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    fix site info
+
+diff --git a/README.md b/README.md
+index c3dd1e5..6ed5230 100644
+--- a/README.md
++++ b/README.md
+@@ -14,7 +14,7 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ 
+ ## 概要(予定)
+ * **2009-11-02 (Mon) 夜** (翌日は祝日です)
+-会場：関西（京都 or 大阪)
++* 関西（京都 or 大阪)
+ 
+ LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
+ 
+@@ -81,7 +81,7 @@ Sixeight(西村)まで連絡をお願いします。
+ 
+ ## SUMMARY
+ * November 02, 2009 (Mon) Night
+-Kyoto or Osaka
++* Kyoto or Osaka
+ 
+ LiveCoding is a new boom that programmers show their programming techniques live with communication and develop a new software.
+ It is amusing that we watch a super technique of a great hacker rowdy.
+
+</pre>]]></description>
+      <pubDate>Thu Oct 01 12:24:37 +0900 2009</pubDate>
+      <dc:date>Thu Oct 01 12:24:37 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>586ea2931559939248bb6f7d180c65f2afd46da3</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    fix typo
+
+diff --git a/README.md b/README.md
+index eff60d5..c3dd1e5 100644
+--- a/README.md
++++ b/README.md
+@@ -42,7 +42,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+   もはやそれはLiveCodingではなく、たんなる動画の再生と見なされます。
+ 
+ ## LiveCoder募集中
+-** 応募方法 **
++**応募方法**
+ 
+ Sixeight(西村)まで連絡をお願いします。
+ 
+
+</pre>]]></description>
+      <pubDate>Thu Oct 01 12:22:02 +0900 2009</pubDate>
+      <dc:date>Thu Oct 01 12:22:02 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>59e568eaf08906e51023ce327ee28204212ed980</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add site information
+
+diff --git a/README.md b/README.md
+index 3d8512f..eff60d5 100644
+--- a/README.md
++++ b/README.md
+@@ -14,6 +14,7 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ 
+ ## 概要(予定)
+ * **2009-11-02 (Mon) 夜** (翌日は祝日です)
++会場：関西（京都 or 大阪)
+ 
+ LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
+ 
+@@ -80,6 +81,7 @@ Sixeight(西村)まで連絡をお願いします。
+ 
+ ## SUMMARY
+ * November 02, 2009 (Mon) Night
++Kyoto or Osaka
+ 
+ LiveCoding is a new boom that programmers show their programming techniques live with communication and develop a new software.
+ It is amusing that we watch a super technique of a great hacker rowdy.
+
+</pre>]]></description>
+      <pubDate>Thu Oct 01 12:21:03 +0900 2009</pubDate>
+      <dc:date>Thu Oct 01 12:21:03 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>20c5e62e6c81d349a27122785c0819c6adf6db57</title>
       <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
