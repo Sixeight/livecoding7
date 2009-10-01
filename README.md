@@ -14,7 +14,7 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 
 ## 概要(予定)
 * **2009-11-02 (Mon) 夜** (翌日は祝日です)
-会場：関西（京都 or 大阪)
+* 関西（京都 or 大阪)
 
 LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
 
@@ -81,7 +81,7 @@ Sixeight(西村)まで連絡をお願いします。
 
 ## SUMMARY
 * November 02, 2009 (Mon) Night
-Kyoto or Osaka
+* Kyoto or Osaka
 
 LiveCoding is a new boom that programmers show their programming techniques live with communication and develop a new software.
 It is amusing that we watch a super technique of a great hacker rowdy.
