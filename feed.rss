@@ -10,6 +10,40 @@
     <description>Recent Commits to livecoding7:master with Diff</description>
     
     <item>
+      <title>20c5e62e6c81d349a27122785c0819c6adf6db57</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    Trivial fixes
+
+diff --git a/README.md b/README.md
+index 9af8c7b..3d8512f 100644
+--- a/README.md
++++ b/README.md
+@@ -51,7 +51,7 @@ Sixeight(西村)まで連絡をお願いします。
+ 
+ また連絡いただいた際にgithubのアカウントをお持ちの方には本サイトのコミット権をお渡ししますので、以下の方法により概要などを直接編集いただけます。
+ 
+-1. [本レポジトリ](http://github.com/Sixeight/livecoding7/tree/master)を`git clone`して、README.mdに直接自分の名前を書いて、
++1. [本レポジトリ](http://github.com/Sixeight/livecoding7)を`git clone`して、README.mdに直接自分の名前を書いて、
+    pushしてください。
+ 2. 以下のコマンドで[このページ](http://sixeight.github.com/livecoding7/)にも反映されます。
+ 
+@@ -64,6 +64,8 @@ Sixeight(西村)まで連絡をお願いします。
+ 
+ ## xxxHackathon
+ * LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でHackathonなどを行なうかもしれません。
++    * 案1: Haskell Hackathon
++    * 案2: Vim Hackathon
+ 
+ ### 補足
+ * 場は翌朝まで使用可能ですが、寝具が無いため暖かい格好などを持参いただけると凍死のリスクを最小限に抑えられます。
+
+</pre>]]></description>
+      <pubDate>Wed Sep 30 17:58:20 -0700 2009</pubDate>
+      <dc:date>Wed Sep 30 17:58:20 -0700 2009</dc:date>
+    </item>
+    
+    <item>
       <title>a8dd09a4552e29edbb60cc92e2b1a9570ecb0529</title>
       <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
