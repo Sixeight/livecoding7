@@ -13,6 +13,8 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 随時更新していきます
 
 * [mollifierさん](http://d.hatena.ne.jp/mollifier/)
+* [hakobeさん](http://d.hatena.ne.jp/hakobe932/)
+* [松本 一輝さん](http://lang-8.jp)
 
 ## 概要(予定)
 * **2009-11-02 (Mon) 夜** (翌日は祝日です)
