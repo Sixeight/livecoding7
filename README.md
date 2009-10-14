@@ -15,6 +15,7 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 * [mollifierさん](http://d.hatena.ne.jp/mollifier/)
 * [hakobeさん](http://d.hatena.ne.jp/hakobe932/)
 * [松本 一輝さん](http://lang-8.jp)
+* [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
 * 他
 
 ## 概要(予定)
