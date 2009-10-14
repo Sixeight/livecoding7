@@ -15,6 +15,8 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 * [mollifierさん](http://d.hatena.ne.jp/mollifier/)
 * [hakobeさん](http://d.hatena.ne.jp/hakobe932/)
 * [松本 一輝さん](http://lang-8.jp)
+* [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
+* 他
 
 ## 概要(予定)
 * **2009-11-02 (Mon) 19時開始** (翌日は祝日です)
