@@ -10,6 +10,64 @@
     <description>Recent Commits to livecoding7:master with Diff</description>
     
     <item>
+      <title>a6215bc7b33b2f6d2a6c2d82f9728c8c3cfcb9a5</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add okkez さん
+
+diff --git a/README.md b/README.md
+index a2976f3..8402bbd 100644
+--- a/README.md
++++ b/README.md
+@@ -16,6 +16,7 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ * [hakobeさん](http://d.hatena.ne.jp/hakobe932/)
+ * [松本 一輝さん](http://lang-8.jp)
+ * [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
++* [okkezさん](http://typo.okkez.net/)
+ * 他
+ 
+ ## 概要(予定)
+
+</pre>]]></description>
+      <pubDate>Sun Oct 18 17:09:37 +0900 2009</pubDate>
+      <dc:date>Sun Oct 18 17:09:37 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>b8fc0812c464938773add5aed22fa31d46e1398b</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add more information
+
+diff --git a/README.md b/README.md
+index e87d7d0..a2976f3 100644
+--- a/README.md
++++ b/README.md
+@@ -21,6 +21,7 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ ## 概要(予定)
+ * **2009-11-02 (Mon) 19時開始** (翌日は祝日です)
+ * [京都西陣町家スタジオ](http://nishi-jin.net/)
++* 参加費: 3000円 (飲食込み)
+ 
+ LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
+ 
+@@ -87,7 +88,8 @@ Sixeight(西村)まで連絡をお願いします。
+ 
+ ## SUMMARY
+ * November 02, 2009 (Mon) Night
+-* Kyoto or Osaka
++* [Kyoto Nishijin Machiya Studio (in Japanese)](http://nishi-jin.net/)
++* Fee: 3,000 yen
+ 
+ LiveCoding is a new boom that programmers show their programming techniques live with communication and develop a new software.
+ It is amusing that we watch a super technique of a great hacker rowdy.
+
+</pre>]]></description>
+      <pubDate>Sun Oct 18 17:08:33 +0900 2009</pubDate>
+      <dc:date>Sun Oct 18 17:08:33 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>adc4bc3b22522c8e2b76cebe4148aa6665d6d372</title>
       <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
