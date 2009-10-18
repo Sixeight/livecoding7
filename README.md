@@ -17,7 +17,7 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 * [松本 一輝さん](http://lang-8.jp)
 * [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
 * [okkezさん](http://typo.okkez.net/)
-* 他
+* 他 (飛び入りも有り！）
 
 ## 概要(予定)
 * **2009-11-02 (Mon) 19時開始** (翌日は祝日です)
