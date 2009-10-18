@@ -10,6 +10,58 @@
     <description>Recent Commits to livecoding7:master with Diff</description>
     
     <item>
+      <title>61dfa495c392e263388cbb907e87a3bbd5680d50</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    fix engliish readme
+
+diff --git a/README.md b/README.md
+index fff9a2d..f654f1d 100644
+--- a/README.md
++++ b/README.md
+@@ -112,4 +112,9 @@ And &quot;Play-by-Play commentaries&quot; are always explaining what he/she is doing.
+ 
+ ## CONTENTS
+ 
+-Comming soon
++* [mollifier](http://d.hatena.ne.jp/mollifier/)
++* [hakobe](http://d.hatena.ne.jp/hakobe932/)
++* [Kazuki Matsumoto](http://lang-8.jp)
++* [Stoyan Zhekov](http://bloggitation.appspot.com/)
++* [okkez](http://typo.okkez.net/)
++* etc
+
+</pre>]]></description>
+      <pubDate>Sun Oct 18 17:13:42 +0900 2009</pubDate>
+      <dc:date>Sun Oct 18 17:13:42 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>db345c847537ab2c348f95c7b31bc35e7d1b71c1</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add 飛び入り
+
+diff --git a/README.md b/README.md
+index 8402bbd..fff9a2d 100644
+--- a/README.md
++++ b/README.md
+@@ -17,7 +17,7 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ * [松本 一輝さん](http://lang-8.jp)
+ * [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
+ * [okkezさん](http://typo.okkez.net/)
+-* 他
++* 他 (飛び入りも有り！）
+ 
+ ## 概要(予定)
+ * **2009-11-02 (Mon) 19時開始** (翌日は祝日です)
+
+</pre>]]></description>
+      <pubDate>Sun Oct 18 17:12:18 +0900 2009</pubDate>
+      <dc:date>Sun Oct 18 17:12:18 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>a6215bc7b33b2f6d2a6c2d82f9728c8c3cfcb9a5</title>
       <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
