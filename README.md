@@ -112,4 +112,9 @@ And "Play-by-Play commentaries" are always explaining what he/she is doing.
 
 ## CONTENTS
 
-Comming soon
+* [mollifier](http://d.hatena.ne.jp/mollifier/)
+* [hakobe](http://d.hatena.ne.jp/hakobe932/)
+* [Kazuki Matsumoto](http://lang-8.jp)
+* [Stoyan Zhekov](http://bloggitation.appspot.com/)
+* [okkez](http://typo.okkez.net/)
+* etc
