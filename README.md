@@ -21,6 +21,7 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 ## 概要(予定)
 * **2009-11-02 (Mon) 19時開始** (翌日は祝日です)
 * [京都西陣町家スタジオ](http://nishi-jin.net/)
+* 参加費: 3000円 (飲食込み)
 
 LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
 
@@ -87,7 +88,8 @@ Sixeight(西村)まで連絡をお願いします。
 
 ## SUMMARY
 * November 02, 2009 (Mon) Night
-* Kyoto or Osaka
+* [Kyoto Nishijin Machiya Studio (in Japanese)](http://nishi-jin.net/)
+* Fee: 3,000 yen
 
 LiveCoding is a new boom that programmers show their programming techniques live with communication and develop a new software.
 It is amusing that we watch a super technique of a great hacker rowdy.
