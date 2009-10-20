@@ -28,7 +28,10 @@ LiveCodingとは、ライヴでプログラミングの技を披露し合い、�
 
 ## 一般参加方法
 
-しばしお待ちください
+以下のURLにて一般参加を受け付けています！
+定員に達すると受付を終了しますのでご注意ください。
+
+http://cotocoto.jp/event/33314
 
 ## LiveCodingについて詳しく
 一人の"LiveCoder"が、20分の制限時間で何かソフトウェアを作り、デモをします。
@@ -97,7 +100,10 @@ It is amusing that we watch a super technique of a great hacker rowdy.
 
 ## REGISTRATION
 
-Please wait a moment.
+Now avairable.
+We accept the first 30 people!
+
+http://cotocoto.jp/event/33314
 
 ## DETAILS
 A "LiveCoder" creates a new software within 20 minutes, and demonstrates it.
