@@ -10,6 +10,36 @@
     <description>Recent Commits to livecoding7:master with Diff</description>
     
     <item>
+      <title>cf6854f6b53caad79fcdb1f3904d749e0eb8a6cc</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add そがわさん
+
+diff --git a/README.md b/README.md
+index 8397cbd..5704033 100644
+--- a/README.md
++++ b/README.md
+@@ -13,6 +13,7 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ * [松本 一輝さん](http://lang-8.jp)
+ * [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
+ * [okkezさん](http://typo.okkez.net/)
++* そがわさん
+ * 他 (飛び入りも有り！）
+ 
+ ## 概要(予定)
+@@ -119,4 +120,5 @@ And &quot;Play-by-Play commentaries&quot; are always explaining what he/she is doing.
+ * [Kazuki Matsumoto](http://lang-8.jp)
+ * [Stoyan Zhekov](http://bloggitation.appspot.com/)
+ * [okkez](http://typo.okkez.net/)
++* Sogawa
+ * etc
+
+</pre>]]></description>
+      <pubDate>Wed Oct 21 08:53:32 +0900 2009</pubDate>
+      <dc:date>Wed Oct 21 08:53:32 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>f4dc30893b832b5c3ce189bd70452504b73ef2a7</title>
       <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
