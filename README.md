@@ -4,10 +4,6 @@
 Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090" title="Subscribe to the commits for Sixeight/livecoding7 at master" /></a>
 </div>
 
-**LiveCoding#7ではLiveCoderを絶賛募集中です**
-
-**詳しくは以下の LiveCoder募集 をご覧ください**
-
 ## Contents
 
 随時更新していきます
