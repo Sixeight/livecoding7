@@ -10,6 +10,46 @@
     <description>Recent Commits to livecoding7:master with Diff</description>
     
     <item>
+      <title>f15bdc660b0ced2bbf642b95555f8eaf29130103</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add 一般応募
+
+diff --git a/README.md b/README.md
+index f654f1d..4d8d63c 100644
+--- a/README.md
++++ b/README.md
+@@ -28,7 +28,10 @@ LiveCodingとは、ライヴでプログラミングの技を披露し合い、
+ 
+ ## 一般参加方法
+ 
+-しばしお待ちください
++以下のURLにて一般参加を受け付けています！
++定員に達すると受付を終了しますのでご注意ください。
++
++http://cotocoto.jp/event/33314
+ 
+ ## LiveCodingについて詳しく
+ 一人の&quot;LiveCoder&quot;が、20分の制限時間で何かソフトウェアを作り、デモをします。
+@@ -97,7 +100,10 @@ It is amusing that we watch a super technique of a great hacker rowdy.
+ 
+ ## REGISTRATION
+ 
+-Please wait a moment.
++Now avairable.
++We accept the first 30 people!
++
++http://cotocoto.jp/event/33314
+ 
+ ## DETAILS
+ A &quot;LiveCoder&quot; creates a new software within 20 minutes, and demonstrates it.
+
+</pre>]]></description>
+      <pubDate>Wed Oct 21 00:12:13 +0900 2009</pubDate>
+      <dc:date>Wed Oct 21 00:12:13 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>61dfa495c392e263388cbb907e87a3bbd5680d50</title>
       <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
