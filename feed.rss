@@ -10,6 +10,33 @@
     <description>Recent Commits to livecoding7:master with Diff</description>
     
     <item>
+      <title>f4dc30893b832b5c3ce189bd70452504b73ef2a7</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    delete head info
+
+diff --git a/README.md b/README.md
+index 96657fc..8397cbd 100644
+--- a/README.md
++++ b/README.md
+@@ -4,10 +4,6 @@
+ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for Sixeight/livecoding7 at master&quot; /&gt;&lt;/a&gt;
+ &lt;/div&gt;
+ 
+-**LiveCoding#7ではLiveCoderを絶賛募集中です**
+-
+-**詳しくは以下の LiveCoder募集 をご覧ください**
+-
+ ## Contents
+ 
+ 随時更新していきます
+
+</pre>]]></description>
+      <pubDate>Wed Oct 21 00:21:02 +0900 2009</pubDate>
+      <dc:date>Wed Oct 21 00:21:02 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>479a39c485864e7043525ab5c91b3eb639c35a0c</title>
       <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
