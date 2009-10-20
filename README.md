@@ -13,6 +13,7 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 * [松本 一輝さん](http://lang-8.jp)
 * [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
 * [okkezさん](http://typo.okkez.net/)
+* そがわさん
 * 他 (飛び入りも有り！）
 
 ## 概要(予定)
@@ -119,4 +120,5 @@ And "Play-by-Play commentaries" are always explaining what he/she is doing.
 * [Kazuki Matsumoto](http://lang-8.jp)
 * [Stoyan Zhekov](http://bloggitation.appspot.com/)
 * [okkez](http://typo.okkez.net/)
+* Sogawa
 * etc
