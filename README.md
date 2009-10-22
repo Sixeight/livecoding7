@@ -10,7 +10,7 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 
 * [mollifierさん](http://d.hatena.ne.jp/mollifier/)
 * [hakobeさん](http://d.hatena.ne.jp/hakobe932/)
-* [松本 一輝さん](http://lang-8.jp)
+* [松本 一輝さん](http://d.hatena.ne.jp/kazuk_i/)
 * [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
 * [okkezさん](http://typo.okkez.net/)
 * そがわさん
@@ -117,7 +117,7 @@ And "Play-by-Play commentaries" are always explaining what he/she is doing.
 
 * [mollifier](http://d.hatena.ne.jp/mollifier/)
 * [hakobe](http://d.hatena.ne.jp/hakobe932/)
-* [Kazuki Matsumoto](http://lang-8.jp)
+* [Kazuki Matsumoto](http://d.hatena.ne.jp/kazuk_i/)
 * [Stoyan Zhekov](http://bloggitation.appspot.com/)
 * [okkez](http://typo.okkez.net/)
 * Sogawa
