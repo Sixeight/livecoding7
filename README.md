@@ -6,13 +6,11 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 
 ## Contents
 
-随時更新していきます
-
 * [mollifierさん](http://d.hatena.ne.jp/mollifier/)
-* [hakobeさん](http://d.hatena.ne.jp/hakobe932/)
 * [松本 一輝さん](http://d.hatena.ne.jp/kazuk_i/)
-* [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
 * [okkezさん](http://typo.okkez.net/)
+* [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
+* [hakobeさん](http://d.hatena.ne.jp/hakobe932/)
 * そがわさん
 * 他 (飛び入りも有り！）
 
@@ -116,9 +114,9 @@ And "Play-by-Play commentaries" are always explaining what he/she is doing.
 ## CONTENTS
 
 * [mollifier](http://d.hatena.ne.jp/mollifier/)
-* [hakobe](http://d.hatena.ne.jp/hakobe932/)
 * [Kazuki Matsumoto](http://d.hatena.ne.jp/kazuk_i/)
-* [Stoyan Zhekov](http://bloggitation.appspot.com/)
 * [okkez](http://typo.okkez.net/)
+* [Stoyan Zhekov](http://bloggitation.appspot.com/)
+* [hakobe](http://d.hatena.ne.jp/hakobe932/)
 * Sogawa
 * etc
