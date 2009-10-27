@@ -10,6 +10,522 @@
     <description>Recent Commits to livecoding7:master with Diff</description>
     
     <item>
+      <title>1b1973fb4ee8e7a43f165b1840da30445bcbbe3a</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add more introduce
+
+diff --git a/README.md b/README.md
+index b5fe677..674c067 100644
+--- a/README.md
++++ b/README.md
+@@ -9,16 +9,18 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ * [mollifierさん](http://d.hatena.ne.jp/mollifier/)
+     * Vimに定評あるmollifierさん。Vim使いの方、Vi使いの方、mollifierさんの作り出す魔法のようなVim捌きを観察してみてはいかがでしょうか。GitとZshにも定評があるらしく、高まる期待はとどまるところを知りません。
+ * [松本 一輝さん](http://d.hatena.ne.jp/kazuk_i/)
+-    * 日本を代表するスタートアップ企業lang-8の技術責任者として暗躍する一輝(kazuki)さん。そんな彼は
++    * 日本を代表するスタートアップ企業lang-8の技術責任者として暗躍する一輝(kazuki)さん。日々スケールするWebサービスについて考える彼が見せる広大なコード世界に今宵我々は飲み込まれる。
+ * [okkezさん](http://typo.okkez.net/)
+-    * Ruby界の重鎮の一人であるokkez(おっきー)さん。彼のラップトップには常に10以上のRuby処理系が入っており、一つのコードを全ての処理系で徹底的に動作させるのを生業としているとか。そんな彼のRuby捌きを見逃せないはずがありません。
++    * Ruby界の重鎮の一人であるokkez(おっきー)さん。彼のラップトップには常に10以上のRuby処理系が入っており、一つのコードを全ての処理系で徹底的に動作させるのを生業としているとか。そんな彼のRuby捌きを見逃せるはずがありません。
+ * [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
+     * ブルガリアを代表する気鋭のプログラマ。RubyやErlangを用い、常に時代を先取りする彼の技術的興味は我々をどこに連れて行くのでしょうか。彼のwebhooksは、ネットワークの確保されたLiveCoding会場で魔法を見せることになるでしょう。
+ * [hakobeさん](http://d.hatena.ne.jp/hakobe932/)
+     * LiveCoder経験3回と、この世の全てのプログラマの中で最も多くLiveCodingを行なったその男はPerlとVimをこよなく愛します。彼の魔法のようなプログラミングテクニックにかかれば、LiveCoding会場にいる我々にピザという恵みをもたらすことも容易いことでしょう。
+ * そがわさん
+-    * 
++    * いままであまり表舞台に出てこなかった京都の秘蔵っ子エンジニア。スパコンとアーキテクチャをこよなく愛し、日夜爆発する負荷と崩壊していく自らの身体と闘います。そんな彼が我々にコーディングすることの楽しさ、ソフトウェアを開発する悦びを伝えるためLiveCodingに参戦。これを体験せずに何を体験するのか。
+ * 他 (飛び入りも有り！）
++    * 作ってしまいたいソフトウェア、発表資料などを心地よいやじをBGMに作りませんか？参戦お待ちしております
++    * (時間の都合で省略される可能性もあります)
+ 
+ ## 概要(予定)
+ * **2009-11-02 (Mon) 19時開始** (翌日は祝日です)
+
+</pre>]]></description>
+      <pubDate>Tue Oct 27 19:56:35 +0900 2009</pubDate>
+      <dc:date>Tue Oct 27 19:56:35 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>64307c4406bb709a30423333e1affe6d1fb82676</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    Details in contents
+
+diff --git a/README.md b/README.md
+index dbf68e1..b5fe677 100644
+--- a/README.md
++++ b/README.md
+@@ -7,11 +7,17 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ ## Contents
+ 
+ * [mollifierさん](http://d.hatena.ne.jp/mollifier/)
++    * Vimに定評あるmollifierさん。Vim使いの方、Vi使いの方、mollifierさんの作り出す魔法のようなVim捌きを観察してみてはいかがでしょうか。GitとZshにも定評があるらしく、高まる期待はとどまるところを知りません。
+ * [松本 一輝さん](http://d.hatena.ne.jp/kazuk_i/)
++    * 日本を代表するスタートアップ企業lang-8の技術責任者として暗躍する一輝(kazuki)さん。そんな彼は
+ * [okkezさん](http://typo.okkez.net/)
++    * Ruby界の重鎮の一人であるokkez(おっきー)さん。彼のラップトップには常に10以上のRuby処理系が入っており、一つのコードを全ての処理系で徹底的に動作させるのを生業としているとか。そんな彼のRuby捌きを見逃せないはずがありません。
+ * [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
++    * ブルガリアを代表する気鋭のプログラマ。RubyやErlangを用い、常に時代を先取りする彼の技術的興味は我々をどこに連れて行くのでしょうか。彼のwebhooksは、ネットワークの確保されたLiveCoding会場で魔法を見せることになるでしょう。
+ * [hakobeさん](http://d.hatena.ne.jp/hakobe932/)
++    * LiveCoder経験3回と、この世の全てのプログラマの中で最も多くLiveCodingを行なったその男はPerlとVimをこよなく愛します。彼の魔法のようなプログラミングテクニックにかかれば、LiveCoding会場にいる我々にピザという恵みをもたらすことも容易いことでしょう。
+ * そがわさん
++    * 
+ * 他 (飛び入りも有り！）
+ 
+ ## 概要(予定)
+
+</pre>]]></description>
+      <pubDate>Tue Oct 27 19:26:57 +0900 2009</pubDate>
+      <dc:date>Tue Oct 27 19:26:57 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>968afcc89b29bd1ac0a27f9ee86376939a18d525</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    program draft
+
+diff --git a/README.md b/README.md
+index 381ce09..dbf68e1 100644
+--- a/README.md
++++ b/README.md
+@@ -6,13 +6,11 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ 
+ ## Contents
+ 
+-随時更新していきます
+-
+ * [mollifierさん](http://d.hatena.ne.jp/mollifier/)
+-* [hakobeさん](http://d.hatena.ne.jp/hakobe932/)
+ * [松本 一輝さん](http://d.hatena.ne.jp/kazuk_i/)
+-* [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
+ * [okkezさん](http://typo.okkez.net/)
++* [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
++* [hakobeさん](http://d.hatena.ne.jp/hakobe932/)
+ * そがわさん
+ * 他 (飛び入りも有り！）
+ 
+@@ -116,9 +114,9 @@ And &quot;Play-by-Play commentaries&quot; are always explaining what he/she is doing.
+ ## CONTENTS
+ 
+ * [mollifier](http://d.hatena.ne.jp/mollifier/)
+-* [hakobe](http://d.hatena.ne.jp/hakobe932/)
+ * [Kazuki Matsumoto](http://d.hatena.ne.jp/kazuk_i/)
+-* [Stoyan Zhekov](http://bloggitation.appspot.com/)
+ * [okkez](http://typo.okkez.net/)
++* [Stoyan Zhekov](http://bloggitation.appspot.com/)
++* [hakobe](http://d.hatena.ne.jp/hakobe932/)
+ * Sogawa
+ * etc
+
+</pre>]]></description>
+      <pubDate>Sat Oct 24 16:23:09 +0900 2009</pubDate>
+      <dc:date>Sat Oct 24 16:23:09 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>80abf04f37fd3e9c1e13158bef765609560b4b79</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    fix 松本さん URL
+
+diff --git a/README.md b/README.md
+index 5704033..381ce09 100644
+--- a/README.md
++++ b/README.md
+@@ -10,7 +10,7 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ 
+ * [mollifierさん](http://d.hatena.ne.jp/mollifier/)
+ * [hakobeさん](http://d.hatena.ne.jp/hakobe932/)
+-* [松本 一輝さん](http://lang-8.jp)
++* [松本 一輝さん](http://d.hatena.ne.jp/kazuk_i/)
+ * [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
+ * [okkezさん](http://typo.okkez.net/)
+ * そがわさん
+@@ -117,7 +117,7 @@ And &quot;Play-by-Play commentaries&quot; are always explaining what he/she is doing.
+ 
+ * [mollifier](http://d.hatena.ne.jp/mollifier/)
+ * [hakobe](http://d.hatena.ne.jp/hakobe932/)
+-* [Kazuki Matsumoto](http://lang-8.jp)
++* [Kazuki Matsumoto](http://d.hatena.ne.jp/kazuk_i/)
+ * [Stoyan Zhekov](http://bloggitation.appspot.com/)
+ * [okkez](http://typo.okkez.net/)
+ * Sogawa
+
+</pre>]]></description>
+      <pubDate>Fri Oct 23 02:37:33 +0900 2009</pubDate>
+      <dc:date>Fri Oct 23 02:37:33 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>cf6854f6b53caad79fcdb1f3904d749e0eb8a6cc</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add そがわさん
+
+diff --git a/README.md b/README.md
+index 8397cbd..5704033 100644
+--- a/README.md
++++ b/README.md
+@@ -13,6 +13,7 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ * [松本 一輝さん](http://lang-8.jp)
+ * [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
+ * [okkezさん](http://typo.okkez.net/)
++* そがわさん
+ * 他 (飛び入りも有り！）
+ 
+ ## 概要(予定)
+@@ -119,4 +120,5 @@ And &quot;Play-by-Play commentaries&quot; are always explaining what he/she is doing.
+ * [Kazuki Matsumoto](http://lang-8.jp)
+ * [Stoyan Zhekov](http://bloggitation.appspot.com/)
+ * [okkez](http://typo.okkez.net/)
++* Sogawa
+ * etc
+
+</pre>]]></description>
+      <pubDate>Wed Oct 21 08:53:32 +0900 2009</pubDate>
+      <dc:date>Wed Oct 21 08:53:32 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>f4dc30893b832b5c3ce189bd70452504b73ef2a7</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    delete head info
+
+diff --git a/README.md b/README.md
+index 96657fc..8397cbd 100644
+--- a/README.md
++++ b/README.md
+@@ -4,10 +4,6 @@
+ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for Sixeight/livecoding7 at master&quot; /&gt;&lt;/a&gt;
+ &lt;/div&gt;
+ 
+-**LiveCoding#7ではLiveCoderを絶賛募集中です**
+-
+-**詳しくは以下の LiveCoder募集 をご覧ください**
+-
+ ## Contents
+ 
+ 随時更新していきます
+
+</pre>]]></description>
+      <pubDate>Wed Oct 21 00:21:02 +0900 2009</pubDate>
+      <dc:date>Wed Oct 21 00:21:02 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>479a39c485864e7043525ab5c91b3eb639c35a0c</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    fix cotocoto url
+
+diff --git a/README.md b/README.md
+index 4d8d63c..96657fc 100644
+--- a/README.md
++++ b/README.md
+@@ -31,7 +31,7 @@ LiveCodingとは、ライヴでプログラミングの技を披露し合い、
+ 以下のURLにて一般参加を受け付けています！
+ 定員に達すると受付を終了しますのでご注意ください。
+ 
+-http://cotocoto.jp/event/33314
++&lt;http://cotocoto.jp/event/33314&gt;
+ 
+ ## LiveCodingについて詳しく
+ 一人の&quot;LiveCoder&quot;が、20分の制限時間で何かソフトウェアを作り、デモをします。
+@@ -103,7 +103,7 @@ It is amusing that we watch a super technique of a great hacker rowdy.
+ Now avairable.
+ We accept the first 30 people!
+ 
+-http://cotocoto.jp/event/33314
++&lt;http://cotocoto.jp/event/33314&gt;
+ 
+ ## DETAILS
+ A &quot;LiveCoder&quot; creates a new software within 20 minutes, and demonstrates it.
+
+</pre>]]></description>
+      <pubDate>Wed Oct 21 00:20:02 +0900 2009</pubDate>
+      <dc:date>Wed Oct 21 00:20:02 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>f15bdc660b0ced2bbf642b95555f8eaf29130103</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add 一般応募
+
+diff --git a/README.md b/README.md
+index f654f1d..4d8d63c 100644
+--- a/README.md
++++ b/README.md
+@@ -28,7 +28,10 @@ LiveCodingとは、ライヴでプログラミングの技を披露し合い、
+ 
+ ## 一般参加方法
+ 
+-しばしお待ちください
++以下のURLにて一般参加を受け付けています！
++定員に達すると受付を終了しますのでご注意ください。
++
++http://cotocoto.jp/event/33314
+ 
+ ## LiveCodingについて詳しく
+ 一人の&quot;LiveCoder&quot;が、20分の制限時間で何かソフトウェアを作り、デモをします。
+@@ -97,7 +100,10 @@ It is amusing that we watch a super technique of a great hacker rowdy.
+ 
+ ## REGISTRATION
+ 
+-Please wait a moment.
++Now avairable.
++We accept the first 30 people!
++
++http://cotocoto.jp/event/33314
+ 
+ ## DETAILS
+ A &quot;LiveCoder&quot; creates a new software within 20 minutes, and demonstrates it.
+
+</pre>]]></description>
+      <pubDate>Wed Oct 21 00:12:13 +0900 2009</pubDate>
+      <dc:date>Wed Oct 21 00:12:13 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>61dfa495c392e263388cbb907e87a3bbd5680d50</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    fix engliish readme
+
+diff --git a/README.md b/README.md
+index fff9a2d..f654f1d 100644
+--- a/README.md
++++ b/README.md
+@@ -112,4 +112,9 @@ And &quot;Play-by-Play commentaries&quot; are always explaining what he/she is doing.
+ 
+ ## CONTENTS
+ 
+-Comming soon
++* [mollifier](http://d.hatena.ne.jp/mollifier/)
++* [hakobe](http://d.hatena.ne.jp/hakobe932/)
++* [Kazuki Matsumoto](http://lang-8.jp)
++* [Stoyan Zhekov](http://bloggitation.appspot.com/)
++* [okkez](http://typo.okkez.net/)
++* etc
+
+</pre>]]></description>
+      <pubDate>Sun Oct 18 17:13:42 +0900 2009</pubDate>
+      <dc:date>Sun Oct 18 17:13:42 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>db345c847537ab2c348f95c7b31bc35e7d1b71c1</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add 飛び入り
+
+diff --git a/README.md b/README.md
+index 8402bbd..fff9a2d 100644
+--- a/README.md
++++ b/README.md
+@@ -17,7 +17,7 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ * [松本 一輝さん](http://lang-8.jp)
+ * [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
+ * [okkezさん](http://typo.okkez.net/)
+-* 他
++* 他 (飛び入りも有り！）
+ 
+ ## 概要(予定)
+ * **2009-11-02 (Mon) 19時開始** (翌日は祝日です)
+
+</pre>]]></description>
+      <pubDate>Sun Oct 18 17:12:18 +0900 2009</pubDate>
+      <dc:date>Sun Oct 18 17:12:18 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>a6215bc7b33b2f6d2a6c2d82f9728c8c3cfcb9a5</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add okkez さん
+
+diff --git a/README.md b/README.md
+index a2976f3..8402bbd 100644
+--- a/README.md
++++ b/README.md
+@@ -16,6 +16,7 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ * [hakobeさん](http://d.hatena.ne.jp/hakobe932/)
+ * [松本 一輝さん](http://lang-8.jp)
+ * [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
++* [okkezさん](http://typo.okkez.net/)
+ * 他
+ 
+ ## 概要(予定)
+
+</pre>]]></description>
+      <pubDate>Sun Oct 18 17:09:37 +0900 2009</pubDate>
+      <dc:date>Sun Oct 18 17:09:37 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>b8fc0812c464938773add5aed22fa31d46e1398b</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add more information
+
+diff --git a/README.md b/README.md
+index e87d7d0..a2976f3 100644
+--- a/README.md
++++ b/README.md
+@@ -21,6 +21,7 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ ## 概要(予定)
+ * **2009-11-02 (Mon) 19時開始** (翌日は祝日です)
+ * [京都西陣町家スタジオ](http://nishi-jin.net/)
++* 参加費: 3000円 (飲食込み)
+ 
+ LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
+ 
+@@ -87,7 +88,8 @@ Sixeight(西村)まで連絡をお願いします。
+ 
+ ## SUMMARY
+ * November 02, 2009 (Mon) Night
+-* Kyoto or Osaka
++* [Kyoto Nishijin Machiya Studio (in Japanese)](http://nishi-jin.net/)
++* Fee: 3,000 yen
+ 
+ LiveCoding is a new boom that programmers show their programming techniques live with communication and develop a new software.
+ It is amusing that we watch a super technique of a great hacker rowdy.
+
+</pre>]]></description>
+      <pubDate>Sun Oct 18 17:08:33 +0900 2009</pubDate>
+      <dc:date>Sun Oct 18 17:08:33 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>adc4bc3b22522c8e2b76cebe4148aa6665d6d372</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add stoyan さん
+
+diff --git a/README.md b/README.md
+index cd19a04..e87d7d0 100644
+--- a/README.md
++++ b/README.md
+@@ -15,6 +15,7 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ * [mollifierさん](http://d.hatena.ne.jp/mollifier/)
+ * [hakobeさん](http://d.hatena.ne.jp/hakobe932/)
+ * [松本 一輝さん](http://lang-8.jp)
++* [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
+ * 他
+ 
+ ## 概要(予定)
+
+</pre>]]></description>
+      <pubDate>Thu Oct 15 01:54:04 +0900 2009</pubDate>
+      <dc:date>Thu Oct 15 01:54:04 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>8e7306152b49f276cfe180e86da87f567d545b16</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add その他
+
+diff --git a/README.md b/README.md
+index 9cea161..cd19a04 100644
+--- a/README.md
++++ b/README.md
+@@ -15,6 +15,7 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ * [mollifierさん](http://d.hatena.ne.jp/mollifier/)
+ * [hakobeさん](http://d.hatena.ne.jp/hakobe932/)
+ * [松本 一輝さん](http://lang-8.jp)
++* 他
+ 
+ ## 概要(予定)
+ * **2009-11-02 (Mon) 19時開始** (翌日は祝日です)
+
+</pre>]]></description>
+      <pubDate>Wed Oct 14 04:11:30 +0900 2009</pubDate>
+      <dc:date>Wed Oct 14 04:11:30 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>5fbf77929fb2865c79b8f0753749f6af2e3a20ef</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add place info
+
+diff --git a/README.md b/README.md
+index bd2b63c..9cea161 100644
+--- a/README.md
++++ b/README.md
+@@ -17,8 +17,8 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ * [松本 一輝さん](http://lang-8.jp)
+ 
+ ## 概要(予定)
+-* **2009-11-02 (Mon) 夜** (翌日は祝日です)
+-* 関西（京都 or 大阪)
++* **2009-11-02 (Mon) 19時開始** (翌日は祝日です)
++* [京都西陣町家スタジオ](http://nishi-jin.net/)
+ 
+ LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
+ 
+
+</pre>]]></description>
+      <pubDate>Wed Oct 14 03:51:42 +0900 2009</pubDate>
+      <dc:date>Wed Oct 14 03:51:42 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>9e26c3b2ba23a7d7fe5c7f9bfe08b7e05f9133d0</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add livecoder
+
+diff --git a/README.md b/README.md
+index 6372973..bd2b63c 100644
+--- a/README.md
++++ b/README.md
+@@ -13,6 +13,8 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ 随時更新していきます
+ 
+ * [mollifierさん](http://d.hatena.ne.jp/mollifier/)
++* [hakobeさん](http://d.hatena.ne.jp/hakobe932/)
++* [松本 一輝さん](http://lang-8.jp)
+ 
+ ## 概要(予定)
+ * **2009-11-02 (Mon) 夜** (翌日は祝日です)
+
+</pre>]]></description>
+      <pubDate>Wed Oct 14 03:47:53 +0900 2009</pubDate>
+      <dc:date>Wed Oct 14 03:47:53 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>03167684013d565dbf2a5027092a9cac4120f86a</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add mollifier's coding to contents
+
+diff --git a/README.md b/README.md
+index 6ed5230..6372973 100644
+--- a/README.md
++++ b/README.md
+@@ -12,6 +12,8 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ 
+ 随時更新していきます
+ 
++* [mollifierさん](http://d.hatena.ne.jp/mollifier/)
++
+ ## 概要(予定)
+ * **2009-11-02 (Mon) 夜** (翌日は祝日です)
+ * 関西（京都 or 大阪)
+
+</pre>]]></description>
+      <pubDate>Fri Oct 02 00:29:02 +0900 2009</pubDate>
+      <dc:date>Fri Oct 02 00:29:02 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>4ad6a050eadbe4eaae4f63894ec0039874b3849d</title>
       <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
