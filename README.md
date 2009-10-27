@@ -7,11 +7,17 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 ## Contents
 
 * [mollifierさん](http://d.hatena.ne.jp/mollifier/)
+    * Vimに定評あるmollifierさん。Vim使いの方、Vi使いの方、mollifierさんの作り出す魔法のようなVim捌きを観察してみてはいかがでしょうか。GitとZshにも定評があるらしく、高まる期待はとどまるところを知りません。
 * [松本 一輝さん](http://d.hatena.ne.jp/kazuk_i/)
+    * 日本を代表するスタートアップ企業lang-8の技術責任者として暗躍する一輝(kazuki)さん。そんな彼は
 * [okkezさん](http://typo.okkez.net/)
+    * Ruby界の重鎮の一人であるokkez(おっきー)さん。彼のラップトップには常に10以上のRuby処理系が入っており、一つのコードを全ての処理系で徹底的に動作させるのを生業としているとか。そんな彼のRuby捌きを見逃せないはずがありません。
 * [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
+    * ブルガリアを代表する気鋭のプログラマ。RubyやErlangを用い、常に時代を先取りする彼の技術的興味は我々をどこに連れて行くのでしょうか。彼のwebhooksは、ネットワークの確保されたLiveCoding会場で魔法を見せることになるでしょう。
 * [hakobeさん](http://d.hatena.ne.jp/hakobe932/)
+    * LiveCoder経験3回と、この世の全てのプログラマの中で最も多くLiveCodingを行なったその男はPerlとVimをこよなく愛します。彼の魔法のようなプログラミングテクニックにかかれば、LiveCoding会場にいる我々にピザという恵みをもたらすことも容易いことでしょう。
 * そがわさん
+    * 
 * 他 (飛び入りも有り！）
 
 ## 概要(予定)
