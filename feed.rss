@@ -10,6 +10,112 @@
     <description>Recent Commits to livecoding7:master with Diff</description>
     
     <item>
+      <title>c9d28132388ba1f8443a82d0031b6130e52249fc</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add 開場時刻
+
+diff --git a/README.md b/README.md
+index 674c067..2c70798 100644
+--- a/README.md
++++ b/README.md
+@@ -23,7 +23,7 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+     * (時間の都合で省略される可能性もあります)
+ 
+ ## 概要(予定)
+-* **2009-11-02 (Mon) 19時開始** (翌日は祝日です)
++* **2009-11-02 (Mon) 18時半開場、19時開始** (翌日は祝日です)
+ * [京都西陣町家スタジオ](http://nishi-jin.net/)
+ * 参加費: 3000円 (飲食込み)
+ 
+@@ -94,7 +94,7 @@ Sixeight(西村)まで連絡をお願いします。
+ # LiveCoding#7
+ 
+ ## SUMMARY
+-* November 02, 2009 (Mon) Night
++* November 02, 2009 (Mon) OPEN: 18:30, START: 19:00
+ * [Kyoto Nishijin Machiya Studio (in Japanese)](http://nishi-jin.net/)
+ * Fee: 3,000 yen
+ 
+
+</pre>]]></description>
+      <pubDate>Sun Nov 01 14:44:15 +0900 2009</pubDate>
+      <dc:date>Sun Nov 01 14:44:15 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>1b1973fb4ee8e7a43f165b1840da30445bcbbe3a</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add more introduce
+
+diff --git a/README.md b/README.md
+index b5fe677..674c067 100644
+--- a/README.md
++++ b/README.md
+@@ -9,16 +9,18 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ * [mollifierさん](http://d.hatena.ne.jp/mollifier/)
+     * Vimに定評あるmollifierさん。Vim使いの方、Vi使いの方、mollifierさんの作り出す魔法のようなVim捌きを観察してみてはいかがでしょうか。GitとZshにも定評があるらしく、高まる期待はとどまるところを知りません。
+ * [松本 一輝さん](http://d.hatena.ne.jp/kazuk_i/)
+-    * 日本を代表するスタートアップ企業lang-8の技術責任者として暗躍する一輝(kazuki)さん。そんな彼は
++    * 日本を代表するスタートアップ企業lang-8の技術責任者として暗躍する一輝(kazuki)さん。日々スケールするWebサービスについて考える彼が見せる広大なコード世界に今宵我々は飲み込まれる。
+ * [okkezさん](http://typo.okkez.net/)
+-    * Ruby界の重鎮の一人であるokkez(おっきー)さん。彼のラップトップには常に10以上のRuby処理系が入っており、一つのコードを全ての処理系で徹底的に動作させるのを生業としているとか。そんな彼のRuby捌きを見逃せないはずがありません。
++    * Ruby界の重鎮の一人であるokkez(おっきー)さん。彼のラップトップには常に10以上のRuby処理系が入っており、一つのコードを全ての処理系で徹底的に動作させるのを生業としているとか。そんな彼のRuby捌きを見逃せるはずがありません。
+ * [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
+     * ブルガリアを代表する気鋭のプログラマ。RubyやErlangを用い、常に時代を先取りする彼の技術的興味は我々をどこに連れて行くのでしょうか。彼のwebhooksは、ネットワークの確保されたLiveCoding会場で魔法を見せることになるでしょう。
+ * [hakobeさん](http://d.hatena.ne.jp/hakobe932/)
+     * LiveCoder経験3回と、この世の全てのプログラマの中で最も多くLiveCodingを行なったその男はPerlとVimをこよなく愛します。彼の魔法のようなプログラミングテクニックにかかれば、LiveCoding会場にいる我々にピザという恵みをもたらすことも容易いことでしょう。
+ * そがわさん
+-    * 
++    * いままであまり表舞台に出てこなかった京都の秘蔵っ子エンジニア。スパコンとアーキテクチャをこよなく愛し、日夜爆発する負荷と崩壊していく自らの身体と闘います。そんな彼が我々にコーディングすることの楽しさ、ソフトウェアを開発する悦びを伝えるためLiveCodingに参戦。これを体験せずに何を体験するのか。
+ * 他 (飛び入りも有り！）
++    * 作ってしまいたいソフトウェア、発表資料などを心地よいやじをBGMに作りませんか？参戦お待ちしております
++    * (時間の都合で省略される可能性もあります)
+ 
+ ## 概要(予定)
+ * **2009-11-02 (Mon) 19時開始** (翌日は祝日です)
+
+</pre>]]></description>
+      <pubDate>Tue Oct 27 19:56:35 +0900 2009</pubDate>
+      <dc:date>Tue Oct 27 19:56:35 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>64307c4406bb709a30423333e1affe6d1fb82676</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    Details in contents
+
+diff --git a/README.md b/README.md
+index dbf68e1..b5fe677 100644
+--- a/README.md
++++ b/README.md
+@@ -7,11 +7,17 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ ## Contents
+ 
+ * [mollifierさん](http://d.hatena.ne.jp/mollifier/)
++    * Vimに定評あるmollifierさん。Vim使いの方、Vi使いの方、mollifierさんの作り出す魔法のようなVim捌きを観察してみてはいかがでしょうか。GitとZshにも定評があるらしく、高まる期待はとどまるところを知りません。
+ * [松本 一輝さん](http://d.hatena.ne.jp/kazuk_i/)
++    * 日本を代表するスタートアップ企業lang-8の技術責任者として暗躍する一輝(kazuki)さん。そんな彼は
+ * [okkezさん](http://typo.okkez.net/)
++    * Ruby界の重鎮の一人であるokkez(おっきー)さん。彼のラップトップには常に10以上のRuby処理系が入っており、一つのコードを全ての処理系で徹底的に動作させるのを生業としているとか。そんな彼のRuby捌きを見逃せないはずがありません。
+ * [Stoyan Zhekovさん](http://bloggitation.appspot.com/)
++    * ブルガリアを代表する気鋭のプログラマ。RubyやErlangを用い、常に時代を先取りする彼の技術的興味は我々をどこに連れて行くのでしょうか。彼のwebhooksは、ネットワークの確保されたLiveCoding会場で魔法を見せることになるでしょう。
+ * [hakobeさん](http://d.hatena.ne.jp/hakobe932/)
++    * LiveCoder経験3回と、この世の全てのプログラマの中で最も多くLiveCodingを行なったその男はPerlとVimをこよなく愛します。彼の魔法のようなプログラミングテクニックにかかれば、LiveCoding会場にいる我々にピザという恵みをもたらすことも容易いことでしょう。
+ * そがわさん
++    * 
+ * 他 (飛び入りも有り！）
+ 
+ ## 概要(予定)
+
+</pre>]]></description>
+      <pubDate>Tue Oct 27 19:26:57 +0900 2009</pubDate>
+      <dc:date>Tue Oct 27 19:26:57 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>968afcc89b29bd1ac0a27f9ee86376939a18d525</title>
       <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
