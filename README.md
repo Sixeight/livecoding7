@@ -23,7 +23,7 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
     * (時間の都合で省略される可能性もあります)
 
 ## 概要(予定)
-* **2009-11-02 (Mon) 19時開始** (翌日は祝日です)
+* **2009-11-02 (Mon) 18時半開場、19時開始** (翌日は祝日です)
 * [京都西陣町家スタジオ](http://nishi-jin.net/)
 * 参加費: 3000円 (飲食込み)
 
@@ -94,7 +94,7 @@ Sixeight(西村)まで連絡をお願いします。
 # LiveCoding#7
 
 ## SUMMARY
-* November 02, 2009 (Mon) Night
+* November 02, 2009 (Mon) OPEN: 18:30, START: 19:00
 * [Kyoto Nishijin Machiya Studio (in Japanese)](http://nishi-jin.net/)
 * Fee: 3,000 yen
 
