@@ -10,6 +10,114 @@
     <description>Recent Commits to livecoding7:master with Diff</description>
     
     <item>
+      <title>a85971895a26c4e06960ef1b0c7cbdb56e494f31</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    LiveCoding#7 has done
+
+diff --git a/README.md b/README.md
+index 2c70798..5961272 100644
+--- a/README.md
++++ b/README.md
+@@ -4,6 +4,14 @@
+ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for Sixeight/livecoding7 at master&quot; /&gt;&lt;/a&gt;
+ &lt;/div&gt;
+ 
++## イベントは無事終了しました！
++
++ご参加いただき本当にありがとうございました
++
++&lt;img src=&quot;http://farm3.static.flickr.com/2740/4068208876_24969c2d33_o_d.jpg&quot; width=&quot;300&quot; /&gt;
++
++photo by [hitode909](http://www.flickr.com/photos/hitode303/4068208876/)
++
+ ## Contents
+ 
+ * [mollifierさん](http://d.hatena.ne.jp/mollifier/)
+@@ -29,13 +37,6 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ 
+ LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
+ 
+-## 一般参加方法
+-
+-以下のURLにて一般参加を受け付けています！
+-定員に達すると受付を終了しますのでご注意ください。
+-
+-&lt;http://cotocoto.jp/event/33314&gt;
+-
+ ## LiveCodingについて詳しく
+ 一人の&quot;LiveCoder&quot;が、20分の制限時間で何かソフトウェアを作り、デモをします。
+ LiveCoderがどのようにコーディングしているかの全てがプロジェクターで大画面に映し出され、
+@@ -55,28 +56,6 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * LiveCoderは過去に作ったものと全く同じものをLiveCodingで作ることが禁止されています。
+   もはやそれはLiveCodingではなく、たんなる動画の再生と見なされます。
+ 
+-## LiveCoder募集中
+-**応募方法**
+-
+-Sixeight(西村)まで連絡をお願いします。
+-
+-* tomohiro68 at gmail.com
+-* [@Sixeight](http://twitter.com/Sixeight)
+-
+-
+-また連絡いただいた際にgithubのアカウントをお持ちの方には本サイトのコミット権をお渡ししますので、以下の方法により概要などを直接編集いただけます。
+-
+-1. [本レポジトリ](http://github.com/Sixeight/livecoding7)を`git clone`して、README.mdに直接自分の名前を書いて、
+-   pushしてください。
+-2. 以下のコマンドで[このページ](http://sixeight.github.com/livecoding7/)にも反映されます。
+-
+-        $ ruby cool.rb
+-
+-   ただし`pandoc` (Haskell実装のMarkdown変換器)、もしくは`RDiscount` (Ruby実装のMarkdown変換器)がないと動作しません。
+-
+-なお、LiveCoderは参加費が無料になります。
+-
+-
+ ## xxxHackathon
+ * LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でHackathonなどを行なうかもしれません。
+     * 案1: Haskell Hackathon
+
+</pre>]]></description>
+      <pubDate>Wed Nov 04 19:25:05 +0900 2009</pubDate>
+      <dc:date>Wed Nov 04 19:25:05 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>c9d28132388ba1f8443a82d0031b6130e52249fc</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add 開場時刻
+
+diff --git a/README.md b/README.md
+index 674c067..2c70798 100644
+--- a/README.md
++++ b/README.md
+@@ -23,7 +23,7 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+     * (時間の都合で省略される可能性もあります)
+ 
+ ## 概要(予定)
+-* **2009-11-02 (Mon) 19時開始** (翌日は祝日です)
++* **2009-11-02 (Mon) 18時半開場、19時開始** (翌日は祝日です)
+ * [京都西陣町家スタジオ](http://nishi-jin.net/)
+ * 参加費: 3000円 (飲食込み)
+ 
+@@ -94,7 +94,7 @@ Sixeight(西村)まで連絡をお願いします。
+ # LiveCoding#7
+ 
+ ## SUMMARY
+-* November 02, 2009 (Mon) Night
++* November 02, 2009 (Mon) OPEN: 18:30, START: 19:00
+ * [Kyoto Nishijin Machiya Studio (in Japanese)](http://nishi-jin.net/)
+ * Fee: 3,000 yen
+ 
+
+</pre>]]></description>
+      <pubDate>Sun Nov 01 14:44:15 +0900 2009</pubDate>
+      <dc:date>Sun Nov 01 14:44:15 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>1b1973fb4ee8e7a43f165b1840da30445bcbbe3a</title>
       <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
