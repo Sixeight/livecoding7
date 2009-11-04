@@ -4,6 +4,14 @@
 Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090" title="Subscribe to the commits for Sixeight/livecoding7 at master" /></a>
 </div>
 
+## イベントは無事終了しました！
+
+ご参加いただき本当にありがとうございました
+
+<img src="http://farm3.static.flickr.com/2740/4068208876_24969c2d33_o_d.jpg" width="300" />
+
+photo by [hitode909](http://www.flickr.com/photos/hitode303/4068208876/)
+
 ## Contents
 
 * [mollifierさん](http://d.hatena.ne.jp/mollifier/)
@@ -29,13 +37,6 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 
 LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
 
-## 一般参加方法
-
-以下のURLにて一般参加を受け付けています！
-定員に達すると受付を終了しますのでご注意ください。
-
-<http://cotocoto.jp/event/33314>
-
 ## LiveCodingについて詳しく
 一人の"LiveCoder"が、20分の制限時間で何かソフトウェアを作り、デモをします。
 LiveCoderがどのようにコーディングしているかの全てがプロジェクターで大画面に映し出され、
@@ -54,28 +55,6 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * 一人のLiveCoderに対して二人の解説役が付くことがうまくいくという経験則があります。
 * LiveCoderは過去に作ったものと全く同じものをLiveCodingで作ることが禁止されています。
   もはやそれはLiveCodingではなく、たんなる動画の再生と見なされます。
-
-## LiveCoder募集中
-**応募方法**
-
-Sixeight(西村)まで連絡をお願いします。
-
-* tomohiro68 at gmail.com
-* [@Sixeight](http://twitter.com/Sixeight)
-
-
-また連絡いただいた際にgithubのアカウントをお持ちの方には本サイトのコミット権をお渡ししますので、以下の方法により概要などを直接編集いただけます。
-
-1. [本レポジトリ](http://github.com/Sixeight/livecoding7)を`git clone`して、README.mdに直接自分の名前を書いて、
-   pushしてください。
-2. 以下のコマンドで[このページ](http://sixeight.github.com/livecoding7/)にも反映されます。
-
-        $ ruby cool.rb
-
-   ただし`pandoc` (Haskell実装のMarkdown変換器)、もしくは`RDiscount` (Ruby実装のMarkdown変換器)がないと動作しません。
-
-なお、LiveCoderは参加費が無料になります。
-
 
 ## xxxHackathon
 * LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でHackathonなどを行なうかもしれません。
