@@ -12,6 +12,12 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 
 photo by [hitode909](http://www.flickr.com/photos/hitode303/4068208876/)
 
+## 感想一覧
+
+@Sixeight が補足した感想をリストしています
+
+* [LiveCoding#7に行ってきた](http://d.hatena.ne.jp/yaotti/20091102/1257168294) by yaotti
+
 ## Contents
 
 * [mollifierさん](http://d.hatena.ne.jp/mollifier/)
