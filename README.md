@@ -16,7 +16,8 @@ photo by [hitode909](http://www.flickr.com/photos/hitode303/4068208876/)
 
 @Sixeight が補足した感想をリストしています
 
-* [LiveCoding#7に行ってきた](http://d.hatena.ne.jp/yaotti/20091102/1257168294) by yaotti
+* [LiveCoding#7に行ってきた](http://d.hatena.ne.jp/yaotti/20091102/1257168294) by yaottiさん
+* [LiveCoding#7に参加しました](http://d.hatena.ne.jp/kazuk_i/20091109/1257776141) by kazuk_iさん
 
 ## Contents
 
