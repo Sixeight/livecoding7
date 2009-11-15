@@ -10,6 +10,30 @@
     <description>Recent Commits to livecoding7:master with Diff</description>
     
     <item>
+      <title>1351ebe25f69d1f449b03ca242fd904b8a6ca005</title>
+      <link>http://sixeight.github.com/livecoding7/</link>
+      <description><![CDATA[<pre>
+    add mollifier's report
+
+diff --git a/README.md b/README.md
+index ffec564..abd5629 100644
+--- a/README.md
++++ b/README.md
+@@ -18,6 +18,7 @@ photo by [hitode909](http://www.flickr.com/photos/hitode303/4068208876/)
+ 
+ * [LiveCoding#7に行ってきた](http://d.hatena.ne.jp/yaotti/20091102/1257168294) by yaottiさん
+ * [LiveCoding#7に参加しました](http://d.hatena.ne.jp/kazuk_i/20091109/1257776141) by kazuk_iさん
++* [LiveCoding#7 に参加した](http://d.hatena.ne.jp/mollifier/20091111/p1) by mollifierさん
+ 
+ ## Contents
+ 
+
+</pre>]]></description>
+      <pubDate>Sun Nov 15 12:43:53 +0900 2009</pubDate>
+      <dc:date>Sun Nov 15 12:43:53 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>0abab58bea1acd9dad29b550555120d69a6a2491</title>
       <link>http://sixeight.github.com/livecoding7/</link>
       <description><![CDATA[<pre>
